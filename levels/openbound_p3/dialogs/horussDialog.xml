@@ -1,0 +1,166 @@
+<sburb>
+    <classes>
+    	<action class='horussTalk1' sprite='meenah' command='talk' name='Hablar con Horuss.'>
+      <args>
+      @horuss_smiletalk HORUSS: 8=D &lt; Vuesa Maleza... Es decir, Espuela. Digo, Realeza.
+      @horuss_bashful:#&#161;Ray*s!#&#161;Vuesa-Espuela!#Uf. HORUSS: 8=D &lt; REC*RCH001*S. Le ruego que no tenga en cuenta mi e%25ecrable vocabulario, ni mi hediondo tartamudeo, Vuesa Equinidad.
+      @horuss_sweat_talk HORUSS: 8=D &lt; Hace ya que no gozo de su regia presencia, mas a&#250;n sigo siendo un matojo de nervios. 
+      @horuss_sweat_grin HORUSS: 8=D &lt; Y, ante tal estado, ya sabr&#225; usted que harto identif&#237;come como un majestuoso sementa100ide.
+      @meenah_idle MEENAH: esto
+      @meenah_idle MEENAH: horuss...
+      @meenah_wut2 MEENAH: se puede saber qu&#233; co&#241;o es eso que sale al principio de tus frases
+      @horuss_idle HORUSS: 8=D &lt; &#191;C&#243;mo? &#191;Acaso no sabe 100 que es?
+      @meenah_wut MEENAH: lo que s&#237; s&#233; es el repel&#250;s que me est&#225;s dando
+      @horuss_smiletalk HORUSS: 8=D &lt; Pero si no es m&#225;s que una faz sonriente, mi at00100ndr*da patrona. Lleva mis gafas y todo, &#191;ve?
+      @meenah_wut MEENAH: eh
+      @meenah_wut MEENAH: &#191;&#191;vale??
+      @meenah_annoyedtalk MEENAH: no s&#233; porqu&#233; pero me da muy mal rollo
+      @horuss_smiletalk HORUSS: 8=D &lt; Por favor, 100 &#250;ltimo que querr&#237;a es incomodar a nuestra rumbosa emperatriz.
+      @horuss_smiletalk:#Ver&#225;-usted-tambi&#233;n-que-ya-no-recurro-tanto-a-chistes-equinos. HORUSS: 8=D &lt; Mis intenciones no van m&#225;s all&#225; de mantener una amplia sonrisa en todo momento, con el objeto de que esos gestos de hast&#237;o que anta&#241;o poblaban bajo mi crin caigan en desuso.
+      @meenah_annoyedtalk MEENAH: qu&#233; mosca te ha picado t&#237;o
+      @horuss_idle:#8=3 HORUSS: 8=D &lt; Si le soy sincero, fue idea de Meulin.
+      @meenah_idle MEENAH: &#191;&#191;ein??
+      @horuss_smiletalk HORUSS: 8=D &lt; Perdone, 001vidaba que no 100 sab&#237;a. Meulin y yo nos hemos comprometido en una FUERTE moiralianza. Nos va de maravilla, ya que bien es sabido que no puede decirse "cuadrante" sin "cuadra".
+      @meenah_idle:#ah-por-cierto#pretend&#237;a-ser-sarc&#225;stica MEENAH: hostiaaaa
+      @meenah_talk:#un-gato-y-un-caballo#habrase-visto MEENAH: lo vuestro no tiene ni pies ni cabeza chaval
+      @horuss_laugh:#Si-hay-que-perecer#Que-sea-con-una-sonrisa#8=D HORUSS: 8=D &lt; E%25acto. &#161;Qui&#233;n me ha visto y qui&#233;n me ve! Si antes de morir, me hubieres preguntado si me planteaba ser el compa&#241;ero sentimental de alguien con sangre tan medi*cr*, la Srta. Leijon, verbigracia, yo habr&#237;a muerto de todas formas, so100 que esta vez de asfi%25ia y a carcajada limpia.
+      @horuss_smiletalk:#100s-dancestros#No-100s-confunda-con#Cabestros HORUSS: 8=D &lt; Dicho esto, &#191;sabe usted qu&#233; hizo que se disiparan el sudor y el vaho que empa&#241;aban mis anteojos? Encontrarme con nuestros semejantes del posscratch. 
+      @horuss_smiletalk:#Afortunadamente,-pude-drenar-el-l&#237;quido-mediante-mis-v&#225;lvulas-para-el-sudor HORUSS: 8=D &lt; El mero hecho de contemplar a nuestros hom&#243;100gos alternienses en sus a&#241;os mozos fue raz&#243;n suficiente para l100rar a mares, aun con las gafas puestas.
+      @horuss_smiletalk HORUSS: 8=D &lt; A pesar de la FUERTE disparidad que hab&#237;a entre sus clases sociales, su relaci&#243;n fue pura y conmovedora. Me hizo ver a Meulin con otros ojos, y eso que hasta entonces jam&#225;s le hab&#237;a prestado la m&#225;s m&#237;nima atenci&#243;n.
+      @horuss_smiletalk HORUSS: 8=D &lt; Tiene gracia, &#191;verdad? Nuestros ancestros vivieron en un paradigma socio100gico totalmente opuesto al nuestro, propiciando un buen n&#250;mero de e%25tra&#241;as parejas, tanto plat&#243;nicas como carnales. Todo un sinf&#237;n de amor&#237;os i100gicos que dejan en un segundo plano al hemoespectro y c&#243;mo se relacionan entre s&#237; sus estamentos. Pero aun as&#237;, parece tener algo de sentido. Adem&#225;s, me atrever&#237;a a decir que es bastante, iiiih...
+      @horuss_sweat_bashful2 HORUSS: 8=D &lt; &#191;E%25cit*nte? No, no, 100 que realmente opino sobre esos deslices alternienses es que son muy, este...
+      @horuss_oops HORUSS: 8=D &lt; &#191;Cochinos?
+      @horuss_crossed:#Hoy-mi-boca-parece-una-vas*ja-de-lastr*. HORUSS: 8=D &lt; J001in*s, tampoco es eso. (Disculpe mi ordin*riez.) Espero que no me tome ahora por un sinv*rg&#252;enza de poca monta.
+      @meenah_talk MEENAH: t&#237;o y a ti qu&#233; m&#225;s te da ser el ligue de alg&#250;n mierdaseca de los de abajo
+      @meenah_talk MEENAH: tu y nitram llev&#225;is siendo pareja desde a saber cu&#225;ndo
+      @horuss_idle HORUSS: 8=D &lt; &#161;Cierto, pero esa es una relaci&#243;n de puertas adentro!
+      @horuss_sweat_bashful2:#Aunque-ya-he-elaborado-animales-de-pelea-robotizados,-valga-la-redundancia. HORUSS: 8=D &lt; Me reservaba dichos menesteres en pos de, ejem, e%25p100rar mis l&#237;mites. Jam&#225;s tuve en mente montar un p001100. 
+      @horuss_sweat_talk:#No-era-m&#225;s-que-un-antojo,-en-serio. HORUSS: 8=D &lt; S001amente pretend&#237;a mantener un fugaz devaneo con un miembro del c001ectivo BMOV, pero la cosa se sali&#243; pronto de madre. 
+      @horuss_crossed HORUSS: 8=D &lt; Y, en menos que canta una yegua, usted y esa sangreor&#237;n tan resentida se inv001ucraron en el asunto y... bueno, imag&#237;nese usted qu&#233; bochorno. Cr&#233;ame, no pretend&#237;a que usted, un respetable miembro de la realeza, fuera a saber de mis andanzas prohibidas. La alcurnia clara y el choc001ate espeso, como quien bien dice.
+      @meenah_wut MEENAH: t&#237;o
+      @horuss_idle2talk HORUSS: 8=D &lt; S&#237;, deber&#237;a haberme lavado 100s cascos tras aquella gran br*nca, pero...
+      @horuss_idle HORUSS: 8=D &lt; &#191;Qui&#233;n iba a decir que acabar&#237;a enamor&#225;ndome?
+      @meenah_wut MEENAH: 
+      @horuss_smiletalk HORUSS: 8=D &lt; Bien cierto es, y no me averg&#252;enza reconocer100. Me enamor&#233; de la crin a 100s cascos. Del hocico a las ancas de su apuesto fantasma. Digamos que...
+      @horuss_bashful:#Y-cu&#225;n-p&#237;cara-fue-su-mirada. HORUSS: 8=D &lt; Me dej&#243; sin aliento.
+      @meenah_idle MEENAH: bueno bueno no me vayas a contar ahora tu vida
+      @horuss_idle HORUSS: 8=D &lt; Perdone, Vuesa E%25celencia.
+      @meenah_annoyedtalk MEENAH: anda dime qu&#233; te ha hecho meu para que ahora vayas ense&#241;ando ese jeto por la calle
+      @horuss_smiletalk:#Verbigracia#Siempre. HORUSS: 8=D &lt; S001amente me ha ayudado a ponerme en contacto con mi ira interna por medio de varios mimos meridianamente legibles. Gracias a su entusiasmo, ahora s&#233; que es m&#225;s sano abatir 100 negativo bajo una estampida de positivismo, y mantener una fachada de alegr&#237;a y jovialidad en todo momento, aun si dicha apariencia me produjera m001estias musculares.
+      @meenah_talk MEENAH: yo que t&#250; no har&#237;a mucho caso de ese moj&#243;n de consejo
+      @horuss_idle HORUSS: 8=D &lt; Este, claro. Como quiera.
+      @horuss_mad HORUSS: (;≧Д≦) &lt; &#191;As&#237; est&#225; mejor?
+      @meenah_happy MEENAH: ya te digo
+      <!--  -->
+      </args>
+</action>
+
+<action class='horussTalk2' sprite='meenah' command='talk' name='Pedirle a Horuss que se una.'>
+      <args>
+      @horuss_smiletalk HORUSS: 8=D &lt; Con todos mis respetos, Vuesa Superlativa Magnificencia, no creo que su sugerencia sea de 100 m&#225;s aconsejable.
+      @meenah_creepy:#TOMA-CHISTACO#ESTA-NENA#LO-PETA MEENAH: equino puede ser hombre
+      @horuss_smiletalk HORUSS: 8=D &lt; Mas si aun as&#237; sigue empe&#241;ada en emitir la orden, acatar&#233; su mandato sin rechistar. Aunque debe saber que hoga&#241;o sigo una fi100sof&#237;a de vida contraria a la vi001encia.
+      @horuss_smiletalk:#Puede-que-en-nada-me-vea-capaz-de-parlar-FUERZA-en-voz-baja HORUSS: 8=D &lt; La vesania y la ojeriza han sido mis monturas desde que tengo memoria. Por el100, mi nueva meta consiste en desfacer entuertos sin recurrir a contiendas o la FUERZA f&#237;sica.
+      @horuss_sweat_talk HORUSS: 8=D &lt; Sin ir m&#225;s lejos, podemos res001ver cuantiosos problemas mediante el buen uso de la tecn00100g&#237;a. &#191;Os imagin&#225;is la de energ&#237;a que acumulamos al sudar? Pues puede renovarse transformando la e%25udaci&#243;n en vapor.
+      @horuss_sweat_grin HORUSS: 8=D &lt; Piense en el PODER de un aut&#243;mata de cuatro piernas alimentado por un intenso vapor, circulando por su e%25quisito torso dispuesto en horizontal, y echando humo de sus perfectas fosas nasales. Le fabricar&#233; cuantos usted me pida, Vuesa Emperatriz.
+      @meenah_talk:#pero-igual-me-lo-pienso-si-me-los-haces-de-oro MEENAH: eh no eso de tener un ej&#233;rcito de robots sudorosos como que no me va
+      @meenah_talk MEENAH: &#191;ahora solo te dedicas a hacer chatarra con el sudor de tu frente?
+      @meenah_talk MEENAH: es que no me vendr&#237;a mal un musculitos en el grupo
+      @meenah_creepytalk:#est&#225;-para-com&#233;rselo MEENAH: no se si te habr&#225;s fijao en la mole esa pero est&#225; CAC)(AS el jod&#237;o
+      @horuss_smiletalk HORUSS: 8=D &lt; No, no, esa no es mi &#250;nica preocupaci&#243;n. Tambi&#233;n me he m001estado en refinar mi lado c&#243;mico.
+      @horuss_idle HORUSS: 8=D &lt; &#191;Le cuento un chiste?
+      @meenah_annoyed:#est&#225;-bien MEENAH: ay se&#241;or...
+      @horuss_smiletalk HORUSS: 8=D &lt; &#201;rase un roc&#237;n que se dirig&#237;a a ga100pe a una barraca de bebercio. Sus portentosos hombros andaban encorvados y su mirada noble se hab&#237;a tornado cabizbaja.
+      @horuss_smiletalk HORUSS: 8=D &lt; El orde&#241;ador del 100cal, al no poder evitar sentir el desaliento de la gran bestia, le pregunta:
+      @horuss_idle HORUSS: 8=========D &lt; &#191;A qu&#233; se debe esa cara tan larga?
+      @meenah_wut MEENAH: euurergh
+      @meenah_angrytalk MEENAH: mira zahhak te proh&#237;bo terminantemente que vuelvas a poner ese jeto en lo que queda de existencia
+      @horuss_idle2 HORUSS: 8=o &lt; A la orden, mi se&#241;ora.
+      @horuss_sadtalk HORUSS: 8o &lt; La alegr&#237;a que otrora invad&#237;a mi semblante ha desaparecido, y mi postura erecta se encoge ante vuestro majestuoso desagrado.
+      @horuss_idle2talk HORUSS: (ಠ益ಠ;) &lt; De aqu&#237; en adelante, e%25presar&#233; mis emociones como 100 hac&#237;a anta&#241;o.
+      @meenah_idle MEENAH: as&#237; me gusta
+      <!--  -->
+      </args>
+</action>
+
+
+<action class='horussTalk3' sprite='meenah' command='talk' name='Ser Horuss.'>
+      <args>
+      @horuss_idle2talk HORUSS: ᕦ(ò д &#243;ˇ)ᕤ &lt; Si me trae un cabal100, ser&#233; todo suyo.
+      <!--  -->
+      </args>
+</action>
+
+<action class='horussTalk4' sprite='rufioh' command='talk' name='Hablar con Horuss.'>
+      <args>
+      @rufioh_happytalk \nRUFIOH: pero s1 es horuss, &#191;que tal te va, t1po duro?
+      @rufioh_talk:#uf-duele-como-un-demon1o... \nRUFIOH: venga, choquemonos esos c1nco pero con suav1dad, &#191;te parece? as1 es... muy b1en... coj*nudo.
+      @rufioh_sheepish \nRUFIOH: oye me gustar1a hablar cont1go sobre una cosa... una cosa eh... muy 1mportante.
+      @rufioh_surprisetalk \nRUFIOH: sobre lo nuestro, el futuro y tal... &#191;t1enes un momento?
+      @rufioh_sheepish \nRUFIOH: perfecto. a ver... d1*s... no se n1 por donde empezar...
+      @rufioh_sheepish \nRUFIOH: hemos llevado una relac1on sensac1onal desde el pr1mer momento... y nos lo hemos pasado en grande.
+      @rufioh_sadtalk \nRUFIOH: bueno, no s1empre fue as1... las pr1meras noches fueron muy compromet1das... por lo de la loca de m1 ex y... en f1n. esa no es la cuest1on.
+      @rufioh_happytalk \nRUFIOH: &#191;recuerdas como eras por aquel entonces?... antes de que andaras detras de m1... &#161;s1empre me m1rabas por enc1ma del hombro! ja, ja, no era mas que otro bajasangre que no merec1a la pena.
+      @rufioh_happytalk \nRUFIOH: damara y yo te sacabamos de qu1c1o... menudo cabreo llevabas enc1ma. que acoj*ne... y hablando de damara... antes era la mar de maja... no se que le habra pasado. es como s1... os hub1ese1s camb1ado los papeles...
+      @rufioh_sheepish \nRUFIOH: luego, as1 a bote pronto... fu1ste tu el que quer1a conocerme mejor. bueno... aunque fuese a escond1das. pero ent1endo que no qu1s1eras ser el hazmerre1r del colect1vo C1P. nunca te lo he ten1do en cuenta, t1o.      
+      @rufioh_sheepish \nRUFIOH: pues eso, v1n1ste al bosque... asegurandote de que nad1e te v1era... y empezamos a quedar. s1gn1f1co mucho para m1, que lo sepas.
+      @rufioh_surprisetalk \nRUFIOH: todo el mundo se montaba sus pel1culas. se pensaban que yo era un aventuro b1zarro que v1v1a en el bosque como un mach*te. esas personas... solo quer1an estar conm1go por esa 1magen de m1... algunas 1ncluso quer1an SER yo... fue todo un asco... n1 s1qu1era damara me quer1a por lo que era... yo d1r1a que me ten1a en un pedestal... bueno, antes de aquello.
+      @rufioh_happytalk \nRUFIOH: pero tu no eras as1. tu me ve1as... como algu1en con defectos.
+      @rufioh_sheepish \nRUFIOH: no ten1a n1nguna segur1dad en m1 m1smo y tu lo sab1as... y fu1ste el pr1mero en ayudarme.
+      @rufioh_happytalk \nRUFIOH: me ense&#241;aste de todo en nuestras quedadas por el bosque, me ense&#241;aste a luchar... a volar... &#161;e 1ncluso a cacarear!
+      @rufioh_laugh \nRUFIOH: bueno, en real1dad no. o sea... ya sab1a arreglarmelas. tecn1camente, ya era capaz de aletear y volar por los a1res. tamb1en pod1a gr1tar "bangarang" a pleno pulmon... pero era mas fac1l dec1rlo que hacerlo. &#161;ten1a m1edo! ten1a m1edo de volar y estamparme contra el suelo... ten1a m1edo de luchar y sent1r la derrota... y ten1a m1edo de cacarear y... no se, &#161;hacer el g1l1p*llas! la v1rgen...
+      @rufioh_sadtalk \nRUFIOH: pero tu me ayudaste a superar m1s m1edos y m1s coh1b1c1ones 1nternas... vamos, a ser yo m1smo. m1s... m1s defectos pasaron a un segundo plano y ya no pensaba en cumpl1r las expectat1vas de los demas.
+      @rufioh_surprisetalk \nRUFIOH: 1gual me estoy pon1endo nostalg1co... pero que t1empos aquellos... tu y yo s1n hacer nada en el bosque. hasta que nos met1mos en aquel juego.
+      @rufioh_sadtalk \nRUFIOH: y bueno... no se como empezo todo... pero ve1a a damara cada vez mas perturbada... en cuanto se entero de nuestras quedadas, se la com1eron los celos...
+      @rufioh_sadtalk \nRUFIOH: y cuando supo lo que eramos realmente... bueno, el resto ya nos lo sabemos.
+      @rufioh_sheepish \nRUFIOH: y etcetera etcetera... nos fu1mos al otro barr1o... y todav1a somos pareja. pero ahora somos fantasmas...
+      @rufioh_sheepish \nRUFIOH: y... ya ha pasado una etern1dad, &#191;sabes?
+      @rufioh_surprisetalk \nRUFIOH: y s1empre te estare en deuda por todo lo que has hecho por m1... pero... la gente camb1a.
+      @rufioh_surprisetalk \nRUFIOH: hasta los fantasmas pueden camb1ar, es todo cuest1on de t1empo... cualqu1er ser neces1ta un camb1o de a1res de vez en cuando...
+      @rufioh_sheepish \nRUFIOH: &#161;ah1 va! me he estado t1rando de la lengua... pero me temo que eso no es lo que quer1a dec1r... m1*rda, ja, ja.
+      @rufioh_happytalk \nRUFIOH: te lo d1re s1n rodeos, hac1endo acop1o del valor que, grac1as a t1, se que s1empre tuve...
+      @rufioh_sadtalk \nRUFIOH: qu1ero romper.
+      @rufioh_sad:#... \nRUFIOH: ...
+      @rufioh_sad \nRUFIOH: oye...
+      @rufioh_sad \nRUFIOH: &#191;te encuentras b1en, colega?
+      @horuss_sweat_talk HORUSS: 8=D &lt; &#161;Oh! Perdona, &#191;has dicho algo?
+      @horuss_sweat_talk HORUSS: 8=D &lt; Estaba quit&#225;ndome el sudor de las v&#225;lvulas auditivas y, claro, no pod&#237;a o&#237;rte.
+      @rufioh_sad \nRUFIOH: ...
+      @horuss_sweat_talk HORUSS: 8=D &lt; A todo esto, &#191;te apetecer&#237;a pasar otro rato agradable en el m&#225;s all&#225; junto a tu compa&#241;ero sentimental? Podr&#237;amos jugar a ese juego de cartas del e%25tranjero que tanto te gusta. &#191;C&#243;mo dec&#237;as que se llamaba? &#191;Ficuspam?
+      @rufioh_sadtalk \nRUFIOH: esto... claro... s1 te empe&#241;as. suena... eh... dabuten.
+      @horuss_sweat_talk HORUSS: 8=D &lt; S&#233; que no soy el m&#225;s indicado para esas chiquilladas tuyas, pero me afano por verles la gracia. Debemos atesorar el tiempo que pasamos juntos; as&#237; se forja una relaci&#243;n FUERTE.
+      @rufioh_sad \nRUFIOH: ...
+      @rufioh_sad \nRUFIOH: bangarang.
+      <!--  -->
+      </args>
+</action>
+
+<action class='horussTalk5' sprite='damara' command='talk' name='Hablar con Horuss.'>
+      <args>
+      @damara_meantalk DAMARA: 十分なゲーム。氏の馬。恋をしましょう。
+      @horuss_idle HORUSS: 8=D &lt; &#191;Perd&#243;n?
+      @damara_meantalk DAMARA: 私はROCINTAUROのようです。私は強い粉末をしたいです。あなたは私の種牡馬です。
+      @horuss_smiletalk HORUSS: 8=D &lt; &#161;Ah! Veo que te interesa el obsequio que acabo de recibir: un flamante corcel, si bien es algo microsc&#243;pico.
+      @horuss_smiletalk HORUSS: 8=D &lt; &#191;A que es una maravilla? Le dar&#233; muchas manzanas para que crezca con FUERZA.
+      @damara_smilemeantalk DAMARA: 私の中であなたのリンゴを入れてください。私の髪をつかみます。、私のチャンピオンさあ。
+      @horuss_sweat_talk HORUSS: 8=D &lt; Este… &#191;has dicho algo de tu cabel100? Y algo de un campe&#243;n, creo.
+      @damara_squinttalk DAMARA: あなたのバケツを記入してください。私にあなたが持っているすべてを与えます。私の中であなたの体液。その後、我々は干し草の山で寝ます。
+      @horuss_hmmtalk HORUSS: 8=D &lt; &#191;Dices que quieres… algo en… un pajar? Hm.
+      @damara_talk DAMARA: 私はホーンを食べますよ。私のお尻はあなたの強い手を必要とします。同じペースに続いて。いななきすることを忘れないでください。
+      @horuss_sweat_talk HORUSS: 8=D &lt; A ver si 100 he entendido, quieres que haga… &#191;algo con ritmo acompasado? &#191;Y tambi&#233;n el ruido de un animal?
+      @damara_talk DAMARA: 私たちはセックスをしたいです。例外なく、私たちがお楽しみいただけます。私たちのオーガズムは全会一致となります。
+      @horuss_sweat_bashful2 HORUSS: 8=D &lt; Os gustar&#237;a… un momento… &#191;hablas en plural? Ignoro 100 que me intentas describir pero, &#191;no ser&#237;an demasiadas Damaras?
+      @damara_squinttalk DAMARA: 清潔なタオルで私を包みます。私は農場の動物のようにうめき声。
+      @damara_smilemeantalk DAMARA: 私の股にあなたの鼻をスティック。私は死んだ子羊のように泣きます。
+      @damara_fiendish DAMARA: 私は私のお尻を共有したいです。私の集団オーガズムにあなたに来ます。それはあなたが感じる最後のものになります。
+      @horuss_crossed HORUSS: 8=D &lt; No tienes ni idea de 100 laborioso que es descifrar ese galimat&#237;as tuyo.
+      @horuss_crossed2 HORUSS: 8=D &lt; Cada vez que te dirijo la palabra, noto como mi sistema se altera.
+      @horuss_sweat_grin HORUSS: 8=D &lt; Y, sin darme cuenta, canalizo un alma alterniasi&#225;tica, en aras de poder entenderte. Pero no suele permanecer en mi cuerpo por mucho tiempo, por 100 que so100 consigo sudar a mares.
+      @horuss_sweat_talk HORUSS: 8=D &lt; Bueno, una s001terona de tres al cuarto, que adem&#225;s es de sangre or&#237;n, jam&#225;s podr&#237;a entender100.
+      @damara_squinttalk DAMARA: あなたは私を侮辱します。どのような喜び。
+      @damara_fu4 DAMARA: 化物。
+      <!--  -->
+      </args>
+</action>
+  	</classes>
+</sburb>

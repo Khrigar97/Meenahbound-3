@@ -1,0 +1,194 @@
+<sburb>
+    <classes>
+  		<action class='rufiohTalk1' sprite='meenah' command='talk' name='Hablar con Rufioh.'>
+	      <args>
+	      @meenah_idle MEENAH: ey nitram
+	      @rufioh_happytalk \nRUFIOH: muy buenas, mu&#241;eca... cuanto t1empo s1n verte el pelo... 
+	      @rufioh_happytalk:#pense-que-te-apetec1a-una-part1d1lla-de-f1duspawn-la-verdad... \nRUFIOH: me alegro de volver a verte con toda la panda... todav1a no me creo la que l1aste con aquella bomba.
+	      @meenah_happy MEENAH: si no ha sido na
+	      @rufioh_sheepish \nRUFIOH: no me seas modesta... tu le has echado mas h**vos que nad1e. eres una mujer de armas tomar, pe1xes.
+	      @meenah_idle MEENAH: lo s&#233;
+	      @meenah_talk:#ser&#225;-solo-un-momento MEENAH: pero ahora no me eches flores que quiero hacerte unas preguntas
+	      @rufioh_idle \nRUFIOH: d1spara, mu&#241;eca...
+	      @meenah_idle MEENAH: las alas esas
+	      @meenah_talk MEENAH: son de nacimiento
+	      @meenah_idle:#quiero-decir-cris&#225;lida MEENAH: o te han salido del capullo
+	      @rufioh_laugh:#n1-tampoco...#ya-sabes...#cualqu1er-otra-palabra \nRUFIOH: s1, es verdad... soy "m*tante"... &#161;pero no se lo d1gas a kankr1! es buen chaval, pero no tolera esa clase de lenguaje...
+	      @meenah_annoyedtalk MEENAH: uf calla que igual se nos apalanca como por arte de magia a darnos el co&#241;azo
+	      @rufioh_sheepish \nRUFIOH: vaya... veo que no soy el un1co... &#161;p**a vida!
+	      @meenah_talk MEENAH: vale las alas las ten&#237;as ya de antes
+	      @meenah_talk MEENAH: me imagino entonces que nunca has sido god tier verdad
+	      @rufioh_talk \nRUFIOH: que va... pero lo de ser un p1caro hecho y derecho sonaba b1en... me podr1as haber ense&#241;ado el arte del hurto, t1a... &#161;t1enes madera de ladrona! 
+	      @rufioh_happytalk \nRUFIOH: no, a m1 no me va ese rollo... es algo que me supera...
+	      @meenah_idle MEENAH: eh y eso
+	      @rufioh_sadtalk \nRUFIOH: no se... eso de su1c1darse... me parece muy fuerte. no soy como tu, meenah... n1 yo n1 nad1e... bueno qu1za damara s1... pero mejor nos olv1damos de ella, ja, ja, ja. corramos un tup1do velo, va...
+	      @meenah_annoyed MEENAH: ...
+	      @rufioh_sheepish \nRUFIOH: m1ra, tu tienes arte... y lo respeto... pero yo nunca me he cons1derado un t1po val1ente... no se que he hecho yo para dar esa 1mpresion. seran las alas o la cresta... o cada vez que d1go bangarang a gr1to pelado. seguro que la gente p1ensa que me sobra la autoest1ma... pero tampoco es para t1rar cohetes... no se...
+	      @meenah_talk MEENAH: vale vale ya lo pillo pero aun as&#237; hay algo que no entiendo
+	      @meenah_wut MEENAH: t&#250; te has vuelto robot alguna vez o se me est&#225; yendo a m&#237; la pinza
+	      @meenah_annoyedtalk:#igual-tengo-la-locura-fantasmal#te-JURO-que-eras-un-caballo MEENAH: no s&#233; si es por haber estado m&#225;s tiesa que la mojama pero me est&#225; costando horrores recordar todo lo de la sesi&#243;n
+	      @rufioh_sad \nRUFIOH: estooo...
+	      @rufioh_sheepish \nRUFIOH: s1, doy fe de lo del robot... ya cas1 me hab1a qu1tado esa estampa de la cabeza, ja, ja... vaya... &#161;fue una p**a locura! aun fl1po...
+	      @rufioh_surprisetalk \nRUFIOH: seguro que todav1a te acuerdas... yo estaba sal1endo con damara... &#191;no te suena?
+	      @meenah_annoyed MEENAH: ah s&#237;
+	      @meenah_annoyed MEENAH: qu&#233; zorra
+	      @meenah_annoyedtalk:#torear#lol#oye...#los-chistes-bovinos-deber&#237;an-ser-cosa-tuya-&#191;no?#GIL&#205; MEENAH: espero que no pretendas rebuscar entre mi mierda porque no dejar&#233; que me torees
+	      @rufioh_no \nRUFIOH: no, no... eh, para nada... es solo que... en fin, horuss empezo a 1ns1nuarseme, ya sabes... y yo no quer1a ponerle los cuernos a damara porque bueno... es muy celosa, la jo**a... hay que jod***e...
+	      @rufioh_offendedtalk \nRUFIOH: pues nada, grac1as a ella ahora soy un t*ll1do
+	      @meenah_idle:#cacacitismo MEENAH: pero ponle la etiqueta hombre de dios
+	      @rufioh_sheepish \nRUFIOH: h*st1a... pues eso, que damara me part1o las p1ernas... no pod1a mover n1 un solo musculo... bueno, aun pod1a bat1r las alas, ja, ja...
+	      @rufioh_happytalk \nRUFIOH: ya me hab1a hecho a la 1dea de volar, en ser1o... p1ensalo, m1 cuerpo 1nmov1l flotando en el a1re... &#161;habr1a s1do la r1sa!
+	      @rufioh_happytalk:#l1teralmente...#&#161;las-soldo-BIEN-el-muy-jod*o!#es-un-crack \nRUFIOH: pero no... a horuss se le ocurr1o algo mejor. y me fabrico aquel armatoste... me dejo de una p1eza...
+	      @rufioh_sadtalk:#y-en-escaleras-ya-n1-te-cuento...#}:( \nRUFIOH: pero me quede s1n alas... y como no term1naba de acostumbrarme a m1 nuevo cuerpo metal1co, me pegue m1s buenos host1**os cada dos por tres, f1jate... es una lata el trotar.
+	      @rufioh_sheepish \nRUFIOH: al menos ya no era un t*ll1do. uy, deber1a dec1r tetraplej1co, ja, ja... imag1no que no te sabras el resto, ten1endo en cuenta que damara te mato...
+	      @meenah_idle MEENAH: pues no qu&#233; paso
+	      @rufioh_sad \nRUFIOH: pues... la palme. y tal... pero...
+	      @rufioh_sheepish \nRUFIOH: es... una larga h1stor1a, vaya... en ser1o no te la han contado... luego te d1go s1 eso, fue toda una mov1da. pero...
+	      @rufioh_talk:#ojala-algu1en-lo-haya-pintado...#ser1a-un-clas1co-contemporaneo \nRUFIOH: estoy muerto, &#191;vale? y va horuss y me devuelve a la v1da con un beso... pero el me cog1a de la cabeza, creo... me lo 1mag1no en lo alto de una monta&#241;a marcandose una pose de chulo que no puede con ella y luchando contra un sementaloide de cr1n llameante... 
+	      @rufioh_happytalk \nRUFIOH: pues eso, cuando te despertaste ya hab1a recuperado m1 cuerpo... fue todo un detalle por su parte.
+	      @rufioh_happytalk \nRUFIOH: y s1, empece a sal1r con el... fue una relac1on larga e 1nterm1tente, y lo que queda... no se, por s1 te 1nteresa...
+	      @meenah_annoyed MEENAH: y una polla
+	      @rufioh_laugh \nRUFIOH: ah... ja, ja... demas1ada 1nformac1on, &#191;verdad? lo s1ento mu&#241;eca.
+	      @rufioh_talk \nRUFIOH: agradezco que te alzases contra ella por m1... ya sabes, cuando lo de la t*ll1dez... se que te costo caro... pero quedaste como una re1na, pe1xes, y jamas lo olv1dare.
+	      @meenah_talk MEENAH: pues ya podr&#237;as alzarte t&#250; tambi&#233;n de vez en cuando guapo
+	      @meenah_talk MEENAH: sin &#225;nimo de ofender por lo de la par&#225;lisis
+	      @rufioh_sad \nRUFIOH: eh... s1... bueno...
+	      @meenah_talk MEENAH: t&#250; eres el &#250;nico de la panda que me parece casi guay
+	      @meenah_talk MEENAH: el resto un petardo pero t&#250; partes la pana
+	      @meenah_talk MEENAH: l&#225;stima que seas tan blandengue
+	      @meenah_annoyed:#detonante#CHISTE-DE-TULLIDOS#j&#243;dete MEENAH: a ver cuando das el paso hijo
+	      @kankri_talk4:#Y,-al-caminar,-pr9cura-n9-alardear-de-la-salud-de-tus-piernas. KANKRI: Perd9nad. Meenah, es9 que has dich9 es una injuria capacitista y MUY in9p9rtuna, dadas las circunstancias. Etiquetar una 6r9ma c9n un det9nante "ir9nic9" n9 justifica tu c9nducta. Agradeceria que n9 v9lvieras a hacerl9 de ah9ra en adelante.
+	      @meenah_angry MEENAH: AAAAARG)(
+	      <!--  -->
+	      </args>
+		</action>
+
+			<action class='rufiohTalk2' sprite='meenah' command='talk' name='Pedirle a Rufioh que se una.'>
+			      <args>
+			      @meenah_talk MEENAH: no s&#233; ni pa qu&#233; te pregunto si luego me sales con esa valiente furcia			      
+				  @meenah_annoyedtalk:#joder#&#191;qu&#233;-me-pasa-hoy?#en-fin MEENAH: argh me sales con que no eres valiente
+			      @meenah_happytalk MEENAH: pero igual te hace venir conmigo a...
+			      @rufioh_notalk \nRUFIOH: madre m1a... &#161;&#161;&#161;la que faltaba!!! ja, ja, ja...
+			      @meenah_wut2 MEENAH: ein
+			      @rufioh_sheepish \nRUFIOH: no te ralles... se que soy el t1po de mucha gente... pero no me esperaba esto de t1... me halagas, en ser1o...
+			      @meenah_angry MEENAH: no te estaba pidiendo una cita idiota
+			      @rufioh_surprisetalk \nRUFIOH: ah... vaya... &#161;jo**r! perdona, me he prec1p1tado un poco...
+			      @rufioh_sheepish \nRUFIOH: ha s1do un acto reflejo, mu&#241;eca... todo el mundo qu1ere sal1r conm1go y no se por que, &#191;sabes?... hay que ver como esta el pat1o...
+			      @rufioh_offendedtalk \nRUFIOH: el otro d1a, f1jate... aparec1o un se&#241;or anaranjado con una cam1sa verde en el bosque que quer1a besarme en los morros... pero bueeeno... que corra el a1re hombre, ja, ja...
+			      @meenah_creepytalk MEENAH: es lo que tiene ser un bishonen guaperas con esa cresta que me llevas
+			      @rufioh_happytalk:#puedo-hacerte-una-cresta-ch1llona...#&#161;&#161;&#161;te-quedaria-de-muerte!!! \nRUFIOH: ey, agradezco el cumpl1do...  tu podr1as pasar por b1shojo con toques de otemba, nena... s1empre has s1do una ch1ca con mucho est1lo, te lo d1go de verdad...
+			      @meenah_happytalk MEENAH: si te sirve de consuelo
+			      @meenah_happytalk MEENAH: yo ser&#237;a tu waifu dere dere con moecho gusto
+			      @meenah_happytalk MEENAH: l&#225;stima que no te tenga ni pizca de cari&#241;o ni me llame tu forma de ser			      
+			      @meenah_happytalk MEENAH: y ya ni hablemos de esos anime troll que tanto te flipan y me parecen una tremenda porquer&#237;a
+			      @rufioh_talk \nRUFIOH: &#161;ja, ja, bangarang! s1 que consuela, s1...
+			      @rufioh_sadtalk \nRUFIOH: ya no tengo a nad1e con qu1en hablar, tia... la cosa se ha puesto muy fea desde que lo deje con m1 ex...
+			      @meenah_annoyed MEENAH: qu&#233; hija de bruja
+			      @rufioh_offended \nRUFIOH: ya te d1go... esta fatal...
+			      @rufioh_happytalk:#y-tampoco-m1-t1nte-para-el-pelo \nRUFIOH: en fin, &#191;que quer1as ped1rme... eh, s1 no es una c1ta?
+			      @meenah_annoyed MEENAH: olv&#237;dalo
+			      @meenah_annoyedtalk MEENAH: total me vas a decir que no vaya mierrrrrda de equipo
+			      @meenah_happy MEENAH: chao rufi
+			      <!--  -->
+			      </args>
+			</action>
+
+
+			<action class='rufiohTalk3' sprite='meenah' command='talk' name='Ser Rufioh.'>
+			      <args>
+			      @rufioh_happytalk \nRUFIOH: h**tia... &#191;ahora qu1eres ser yo? vale, me mola la 1dea.
+			      @rufioh_surprisetalk \nRUFIOH: pero &#191;puede ser en otro momento? ahora m1smo tengo la cabeza un poco loca porque no encuentro a m1 lusus... &#161;&#161;&#161;me ayuda a ser pos1t1vo!!! ja, ja...
+			      @rufioh_offendedtalk \nRUFIOH: espero que damara no haya vuelto a hacer de las suyas... la ultima vez encerro a mi peque&#241;ajo en no se donde solo para put***me... &#161;&#161;&#161;esa ch1ca esta majara!!!
+			      <!--  -->
+			      </args>
+			</action>
+
+<action class='rufiohTalk4' sprite='horuss' command='talk' name='Hablar con Rufioh.'>
+      <args>
+      @rufioh_surprisetalk \nRUFIOH: buenas. oh, eh... aun s1gues con esa cara... 
+      @horuss_smiletalk HORUSS: 8=D &lt; As&#237; es, y todo son ventajas. El malestar que persiste en mi semblante me ayuda a no 001vidar la importancia de aparentar la felicidad.
+      @horuss_oops HORUSS: 8=O &lt; &#191;Por qu&#233; 100 mencionas? &#191;Acaso te desagrada?
+      @rufioh_offendedtalk \nRUFIOH: este... no... pero... tranqu1lo, no pasa nada horuss. te queda, eh... de c1ne. vaya.
+      @horuss_smiletalk HORUSS: 8=D &lt; Si te m001esta, puedo poner mi cara de antes. Hace nada, Meenah me prohibi&#243; e%25presamente que hiciese muecas obscenas ante su presencia, y as&#237; ha sido desde entonces. T&#250; tambi&#233;n me eres importante, as&#237; que no me importar&#237;a.
+      @rufioh_sheepish:#bueno#agradecer1a-que-no-me-se&#241;alaras-con-eso-a-la-cara... \nRUFIOH: ehh... ja, ja. que no... que no t1ene importanc1a. no se, tampoco es para tanto. tu a tu rollo...
+      @horuss_smiletalk HORUSS: 8=D &lt; Rufioh, eres el individuo m&#225;s d&#243;cil y amable de cuantos he conocido. Esa cresta tuya es la guinda de mi tesoro m&#225;s preciado. Un diamante en Rufioh, podr&#237;a decirse. Eres el s&#250;mmum de tu aspecto, veleidoso y v001uble como la mism&#237;sima Brisa.
+      @rufioh_sheepish \nRUFIOH: oh... ya... grac1as. deber1a esforzarme mas, la verdad...
+      @horuss_smiletalk HORUSS: 8=D &lt; Naturalmente. Nuestro af&#225;n de superaci&#243;n es 100 que nos lleva a forjar nuestra herradura perfecta. De momento, tu empe&#241;o en ser as&#237; no ha ca&#237;do en saco roto.
+      @rufioh_surprisetalk \nRUFIOH: no, s1 prec1samente... NO qu1ero segu1r as1... esto... eh, lamento haberte 1nterrump1do... s1gue...
+      @horuss_smiletalk HORUSS: 8=D &lt; Mi aspecto tambi&#233;n supuso una clara influencia en el cariz que tomar&#237;a mi vida. Durante mis primeros a&#241;os, me sent&#237; como una hoja en blanco. Deb&#237;a fraguar mi car&#225;cter a partir de la nada.
+      @horuss_smiletalk HORUSS: 8=D &lt; Hasta que un buen d&#237;a, empec&#233; a escuchar al vac&#237;o que hab&#237;a en m&#237;. Absorb&#237; cual esponja todo 100 que me iba revelando, y supe que aquel100 era mi vocaci&#243;n. 
+      @horuss_smiletalk HORUSS: 8=D &lt; Gracias al vac&#237;o, pude labrarme una identidad FUERTE y, como el proceso harto se parec&#237;a al ensamblaje de una maquinaria compleja, no es de e%25tra&#241;ar que de ah&#237; surgiese mi amor por la mec&#225;nica.
+      @horuss_smiletalk HORUSS: 8=D &lt; Huelga decir que, la obviedad de que soy un sementa100ide andante tambi&#233;n lleg&#243; trotando a mi coraz&#243;n. Qu&#233; crueldad que mi aspecto f&#237;sico pueda llevar a enga&#241;o.
+      @rufioh_surprisetalk \nRUFIOH: oye, eh... horuss... m1ra...
+      @rufioh_sadtalk \nRUFIOH: tenemos que hablar.
+      @rufioh_sad \nRUFIOH: bueno, cuando puedas...
+      @horuss_smiletalk HORUSS: 8=D &lt; Conforme pasaban 100s cic100s, m&#225;s pegaba mi fino o&#237;do equino (mejorado artificialmente) al abismo de mi ser, y m&#225;s cosas averiguaba acerca de mi genio. Entonces supe que mi complejidad no conoc&#237;a limites. No hubo mente mortal que pudiera asimilar semejante magnitud.
+      @horuss_hmmtalk HORUSS: 8=D &lt; Pero mi condici&#243;n de sementa100ide reci&#233;n adquirida no era m&#225;s que el pasto entrante. La nata que reposa en 100 alto de un buen vaso de leche. El vac&#237;o me deparaba mucho m&#225;s.
+      @rufioh_sad \nRUFIOH: creo que deber1amos...
+      @rufioh_sheepish \nRUFIOH: eh... ver a otras...
+      @horuss_hmmtalk HORUSS: 8=D &lt; Descubr&#237; que mi cuerpo albergaba un elaborado conjunto de entes de todo tipo, sin importar que fuesen bio100gicos, mec&#225;nicos, conscientes, inertes, f&#237;sicos o incorp&#243;reos. Poseo especialidades afines a sementa100ides de vetusta leyenda, una amplia variedad de electrodom&#233;sticos, varios cuerpos cosmo100gicos entre 100s que se incluyen planetas, sistemas s001ares, e incluso universos, y otros conceptos abstractos que no pueden e%25presarse en ning&#250;n idioma.
+      @rufioh_sheepish \nRUFIOH: esto... no te lo tomes a mal... hemos v1v1do momentos mag1cos... de veras, t1o...
+      @rufioh_sad \nRUFIOH: pero ya va siendo hora de eh... no se.
+      @horuss_crossed HORUSS: 8=D &lt; Mas por mucho que indagase, siempre me sent&#237;a vacuo.
+      @horuss_idle HORUSS: 8=D &lt; Pero todo eso cambi&#243; cuando entraste en mi vida, Rufioh. 
+      @rufioh_surprise \nRUFIOH: ah1 va, t1o. yo...
+      @rufioh_sadtalk \nRUFIOH: ah1 va.
+      @horuss_smiletalk HORUSS: 8=D &lt; Si hubiese alguna moraleja que sacar de mi historia, preferir&#237;a que dicha moraleja conformara un sistema m&#250;ltiple de dos ense&#241;anzas distintas.
+      @horuss_smiletalk HORUSS: 8=D &lt; La primera, que el amor cura cualquier herida, aun si el vac&#237;o infinito impregna todo tu ser y tu papel como h&#233;roe de leyenda.
+      @horuss_smiletalk HORUSS: 8=D &lt; Y la segunda es que si padeces alguna suerte de crisis de identidad, procura adoptar una personalidad sibilina aunque sea a la fuerza, creer en ella con todas tus FUERZAS y, cuanto m&#225;s sepa la gente de tu nueva faceta, mejor.
+      @horuss_bashful HORUSS: 8=D &lt; Mi personalidad vigente, compleja a la par que interesante, ha sido el fruto de incontables horas de trabajo, que no te quepa duda.
+      @horuss_sweat_bashful2 HORUSS: 8=D~~ &lt; La he curtido con todo el sudor de mi frente.
+      @horuss_sweat_bashful HORUSS: 8=D~~~~ &lt; (El mismo sudor que ves a la derecha).
+      @rufioh_no \nRUFIOH: ah... eh... pero bueno...
+      @rufioh_no \nRUFIOH: &#161;que cag*e chaval!
+      @horuss_smiletalk HORUSS: 8=D &lt; En fin, mis disculpas por haber acaparado la conversaci&#243;n. No s&#233; como 100 haces, pero siempre me dejas sin aliento.
+      @horuss_idle HORUSS: 8=D &lt; &#191;Quer&#237;as decirme algo?
+      @rufioh_sheepish \nRUFIOH: eh... bueno.
+      @rufioh_sheepish \nRUFIOH: este...
+      @rufioh_sad \nRUFIOH: no es nada.
+      <!--  -->
+      </args>
+</action>
+<action class='rufiohTalk5' sprite='damara' command='talk' name='Hablar con Rufioh.'>
+      <args>
+      @rufioh_sadtalk \nRUFIOH: a t1 no te puedo ment1r damara... llevo una depre enc1ma...
+      @damara_huh DAMARA: なぜですか？
+      @rufioh_surprisetalk \nRUFIOH: esto... &#191;sabes guardar un secreto?
+      @damara_fiendish DAMARA: もちろん。私たちは友達です。
+      @rufioh_surprise \nRUFIOH: vale...
+      @rufioh_surprisetalk \nRUFIOH: es por horuss... ya sabes... tengo pensado romper...
+      @damara_talk DAMARA: 何を破るつもりですか？彼のホーン？
+      @rufioh_sheepish \nRUFIOH: &#161;ja, ja, ja! nah... eso ya es pasarse...
+      @rufioh_sadtalk \nRUFIOH: es que... me s1ento 1d1ota por querer hacerle esto... es un gran t1po...
+      @rufioh_offendedtalk \nRUFIOH: &#161;que pu&#241;et*s! &#161;&#161;&#161;ya hacemos una p*ta etern1dad juntos!!! una relac1on no deber1a durar tanto...
+      @damara_talk DAMARA: あなたの性生活はどう？
+      @rufioh_notalk \nRUFIOH: oye, eh... eso es pr1vado... pero no es por eso... 
+      @rufioh_sadtalk \nRUFIOH: me sabe fatal dec1r esto pero... no puedo con el... la cosa se ha vuelto monotona con el paso de los m1lenios... y ademas... se pone a hablar de ganado y an1males musculosos y... no se. eso no me llama...
+      @rufioh_surprisetalk \nRUFIOH: puede que nunca fuesemos compat1bles... y jamas me atrev1era a dec1rselo.
+      @damara_sadtalk DAMARA: RUFIOH。私はあなたに言いました。毎日。最初の瞬間から。
+      @rufioh_laugh \nRUFIOH: lo se, lo se... jamas te escuche... &#161;&#161;&#161;como aun te atacaban los celos!!!
+      @damara_mean DAMARA: そして怒り。
+      @rufioh_sheepish \nRUFIOH: en f1n... que no se que hacer.
+      @rufioh_surprisetalk \nRUFIOH: es buen t1po... &#161;pero es muy pesado! aun a d1a de hoy s1gue en sus trece... puede que el ya este acostumbrado... pero... yo ya estoy harto de romant1c1smos. me s1gues, &#191;mu&#241;eca?
+      @damara_meantalk DAMARA: もちろん。私の愛の欲求も死亡しました。誰かが心の中で私を刺したので。
+      @rufioh_idle \nRUFIOH: je, je, touche.
+      @rufioh_sadtalk \nRUFIOH: ahora en ser1o... no qu1ero her1r sus sent1m1entos...
+      @damara_squinttalk DAMARA: あなたは再び彼を殺すためにしたいですか？
+      @rufioh_notalk \nRUFIOH: &#161;&#161;&#161;no!!! la v1rgen... no le hagas da&#241;o... &#161;no qu1ero que se rep1ta lo de antes!
+      @damara_smile DAMARA: 私は彼を誘惑することができます。
+      @rufioh_offendedtalk \nRUFIOH: eh... bueno, s1 tu crees... pero... eso ser1a mas b1en cosa vuestra. y no creo que vaya a func1onar... de todas formas, eso no me ayuda...
+      @damara_squinttalk DAMARA: 私は悪魔を呼び出します。それはあなたの魂を食べます。
+      @rufioh_notalk \nRUFIOH: &#161;no d1gas eso! &#161;&#161;&#161;aqu1 nad1e va a comerse el alma de NAD1E!!!
+      @rufioh_offendedtalk \nRUFIOH: &#161;no puedes dec1r esas barbar1dades en voz alta, damara!
+      @rufioh_surprisetalk \nRUFIOH: &#191;y s1 otro entend1era lo que d1ces?... lo de que qu1eres ser su s1rv1enta y tal... &#161;j***r!
+      @rufioh_surprisetalk \nRUFIOH: la que l1ar1as... se armar1a una buena...
+      @rufioh_offendedtalk \nRUFIOH: h*st1a, lo del ejerc1to de meenah era para acabar con el, &#191;no?
+      @rufioh_sheepish \nRUFIOH: menos mal que no te ent1ende al hablar... rayos... no puede dejar que se entere...
+      @rufioh_sad:#}:( \nRUFIOH: o volver1a1s a las andadas...
+      @damara_talk DAMARA: 避けられないを遅らせる停止します。
+      @damara_squint DAMARA: 時間の終わりが近づいています。
+      <!--  -->
+      </args>
+</action>
+    </classes>
+</sburb>

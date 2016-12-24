@@ -1,0 +1,102 @@
+<sburb>
+      <assets>
+            <asset name='dialogimg_kankri' type='graphic'>interface/backgrounds/dialogimg_kankri.png</asset>
+            <asset name='dialogimg_sneak' type='graphic'>interface/backgrounds/dialogimg_sneak.png</asset>
+      </assets>
+
+      <sprite name='dialogimg_sneak'>
+            <animation sheet='dialogimg_sneak' length='2' frameInterval='30'/>
+      </sprite>
+
+    <classes>
+<action class='meenahTalk1' sprite='rufioh' command='talk' name='Hablar con Meenah.'>
+      <args>
+      @rufioh_happytalk \nRUFIOH: uf... menos mal que ha aparec1do m1 lusus... &#161;no se que har1a s1n m1 colegu1lla!
+      @meenah_talk MEENAH: eh oye
+      @meenah_idle MEENAH: &#191;&#233;l "pezsiste"?
+      @meenah_idle MEENAH: o sea
+      @meenah_talk MEENAH: es el fantasma de tu lusus o algo as&#237;
+      @rufioh_sheepish \nRUFIOH: pues... &#161;la verdad es que nunca me hab1a preguntado eso, mu&#241;eca!
+      @rufioh_happytalk \nRUFIOH: puede que sea producto de m1 subconsc1ente. pero tamb1en podr1a ser su fantasma...
+      @rufioh_happytalk \nRUFIOH: recuerdo que damara le t1ro el arcon de la gusa por enc1ma s1n querer... el pobre quedo aplastado... desde entonces s1empre so&#241;e con volver a verlo en el mas alla.
+      @rufioh_sheepish \nRUFIOH: y aqu1 lo t1enes... no le d1 muchas vueltas al asunto. con estar a su lado me bastaba.
+      @rufioh_talk:#en-f1n...-lo-bas1co \nRUFIOH: al f1n y al cabo, me ayuda a pensar en pos1t1vo. s1n el no me ver1a capaz de hacer lo que hago... volar... luchar... cacarear... 
+      @meenah_idle MEENAH: cierto
+      @rufioh_surprisetalk \nRUFIOH: antes, cuando era mas joven... solo era un cachorro que 1ntentaba encajar... pero me m1raban raro por culpa de m1s alas, &#161;1ncluso pon1a a la gente de los nerv1os!
+      @rufioh_sadtalk \nRUFIOH: me sent1 1ncomodo y cada vez mas 1nseguro... detestaba esas m1radas...
+      @rufioh_surprisetalk \nRUFIOH: pero una buena noche, m1 lusus me llevo al bosque...
+      @rufioh_talk:#&#161;JAMAS-hab1a-gr1tado-bangarang-con-tanta-FUERZA! \nRUFIOH: y me encontre con un poblado de casas en arboles y escaleras hechas con cuerdas. &#161;era la H*ST1A para algu1en como yo!
+      @rufioh_happytalk \nRUFIOH: y as1 fue como me h1ce m1embro of1c1al de los otacos perd1dos.
+      @meenah_annoyed MEENAH: oye t&#237;o...
+      @meenah_annoyedtalk MEENAH: no vuelvas a mencionar a los otacos perdidos
+      @meenah_annoyedtalk MEENAH: no quiero ver ese nombre ni en pintura
+      @rufioh_offended \nRUFIOH: esto...
+      @meenah_annoyedtalk MEENAH: mira rufi tu historia es la pera pero hay cosas para las que tengo un l&#237;mite
+      @rufioh_sheepish \nRUFIOH: claro... je, je.
+      @rufioh_happytalk \nRUFIOH: en f1n, ellos eran m1 gente... una pand1lla en la que se pod1a pasar el rato y pegarse atracones de an1mes troll... como ah1 en n1ngun s1t1o.
+      @meenah_wut2:#no MEENAH: venga ya
+      @rufioh_happytalk \nRUFIOH: ah1 fue donde conoc1 a damara... &#161;que epoca tan plena!
+      @rufioh_happytalk \nRUFIOH: durante esos c1clos descubr1 la t1ra de cosas sobre esa cultura... y las tengo muy presentes aun a d1a de hoy.
+      @rufioh_surprisetalk \nRUFIOH: esto que quede entre nosotros pero... echo de menos el pasarnos los d1as hablando de cualqu1er an1me troll... porque ahora... ya ves como esta la cosa...
+      @meenah_annoyedtalk MEENAH: a ver so frikis por qu&#233; co&#241;o lo llam&#225;is anime troll
+      @meenah_annoyed MEENAH: pregunto
+      @meenah_annoyedtalk MEENAH: es que eso de ponerle "troll" a algo procedente de la cultura troll es s&#250;per redundante
+      @meenah_annoyed MEENAH: si solo son dibujitos
+      @rufioh_surprise:#da-que-pensar... \nRUFIOH: anda... pues m1ra, tampoco hab1a ca1do en eso... que cosas.
+      @rufioh_sheepish \nRUFIOH: s1, ya se que lo nuestro no es para todo el mundo.
+      @rufioh_sheepish \nRUFIOH: d1cen que son d1bujos para gusanos... hasta yo pensaba que en algun momento me dejar1an de gustar pero m1ra, parece que no.
+      @rufioh_surprisetalk \nRUFIOH: aunque claro... s1 hemos muerto... entonces seremos jovenes para s1empre... 
+      @rufioh_surprisetalk \nRUFIOH: tal y como profet1zaba el credo de los otacos perd1dos... 
+      @rufioh_notalk \nRUFIOH: menudo cag*e... &#161;&#161;&#161;y yo que pensaba que se quer1an quedar conm1go!!!
+      @meenah_talk MEENAH: uy has vuelto a decir otacos perdidos ahora s&#237; que paso de la conversaci&#243;n
+      @meenah_talk MEENAH: como gesticul&#243; la, que en paz descanse, ilustre meulin leijon:
+      @meenah_fish MEENAH: M-E VOY D-E LA VIDA
+      <!--  -->
+      </args>
+</action>
+
+<action class='meenahTalk2' sprite='horuss' command='talk' name='Hablar con Meenah.'>
+      <args>
+      @meenah_idle MEENAH: eh zak
+      @meenah_talk MEENAH: resp&#243;ndeme a esto que es importante
+      @horuss_idle2talk HORUSS:  (ノಠ益ಠ)ノ &lt; Usted dir&#225;, mi inigualable y eminente Eminencia.
+      @meenah_happytalk MEENAH: desde cu&#225;ndo te crees un caballo
+      @kankri_whistle KANKRI: *&#161;&#161;&#161;PRRIIIIIIIIIIIIIII!!!*
+      @kankri_talk2 KANKRI: N9 sigas, Meenah. Esa pregunta tuya es una grave micr9agresi9n hacia aquell9s que, lamenta6lemente, padecen disf9ria de especie. C9m9 la pregunta n9 c9ntenia malicia alguna, me a6stendre de inf9rmarte de l9s riesg9s que acarrea la degradaci9n de det9nantes per9, madre mia, l9 que has hech9 n9 tiene n9m6re. El p96re de H9russ se quedara semanas en estad9 de sh9ck, y t9d9 p9r culpa de tus inc9rrecci9nes. Inclus9 a mi me ha pertur6ad9, y es9 que y9 n9 me c9nsider9 un ca6all9. Diria que tu c9mentari9 ha marcad9 a t9d9s l9s presentes. H9russ, &#191;te ha afectad9 ese det9nante?
+      @horuss_laugh HORUSS: (ｏ皿ｏ;) &lt; Detonante, no hay mejor nombre para un sementa100ide.
+      @kankri_talk KANKRI: &#191;L9 ves? Le em6arga la desaz9n. Hay que empezar la terapia cuant9 antes.
+      @meenah_annoyed:#haber-si-me-remuero MEENAH: 38(
+      @kankri_talk4 KANKRI: Meenah, tu amig9 se cree que es un majestu9s9 semental9ide, per9 n9 es alg9 que haya elegid9 el. Es mas, l9 suy9 n9 es una creencia, sin9 un HECH9. Nuestr9 96jetiv9 es l9grar que se c9nsidere c9m9 tal, principalmente p9r la prep9nderancia de l9s sentimient9s de H9russ. 6asar nuestra visi9n de la realidad en t9rn9 a las em9ci9nes de l9s demas es un9 de l9s pilares de la Pr96lematica. Incumplirl9 sup9ndra un dem9led9r alluvi9n de pala6ras a m9d9 de escarmient9 c9n el fin de educar, curar, y a6rumar de acuerd9 a las leyes de la ret9rica. 
+      @kankri_talk3 KANKRI: Al preguntar "desde cuand9 te crees un ca6all9", das a entender que es el el que ha elegid9 ese rasg9 de su identidad. L9 que de6erias hacer es escuchar atentamente a la fauna que al6erga H9russ en su interi9r. Haz cas9 de l9 que salga de su h9cic9 fantasmal, p9r much9 que su cuerp9 se niegue a darle un9, y siente el suave c9squille9 de sus p9saderas equinas.
+      @horuss_smiletalk HORUSS: 8=D &lt; Tienes raz&#243;n, amigo m&#237;o. La sabidur&#237;a que posees est&#225; muy por encima de 100 que me sue100 esperar de 100s de vuestra depravada y nauseabunda sangre mutante.
+      @kankri_talk2 KANKRI: Te l9 agradezc9. L9s que me c9n9zcan sa6ran que detest9 irme p9r las ramas, per9 cre9 que necesitais una sesi9n educativa exhaustiva e ininterrumpida. P9r c9nsiguiente, pr9ced9 ah9ra c9n mi devastad9ra diatri6a s96re tan delicad9 tema:
+      @kankri_talk4~dialogimg_kankri
+      @!~dialogimg_sneak
+      <!--  -->
+      </args>
+</action>
+
+<action class='meenahTalk3' sprite='damara' command='talk' name='Hablar con Meenah.'>
+      <args>
+      @damara_talk DAMARA: あなたは主君を殺すつもりですか？
+      @damara_talk DAMARA: どのようにして、このような哀れな軍隊を持つことができますか？
+      @damara_talk DAMARA: 彼はあなたの幽霊を食べることになります。現実は彼らの食糧であるため。
+      @meenah_idle MEENAH: no estoy yo muy segura...
+      @meenah_idle MEENAH: pero...
+      @meenah_talk MEENAH: &#191;me estabas deseando suerte para el combate final?
+      @meenah_happytalk MEENAH: gracias eh megido
+      @meenah_happytalk MEENAH: igual no eres tan mala como yo pensaba
+      @damara_smile DAMARA: 真実ではありません。
+      @meenah_happytalk MEENAH: jo he sido una japuta integral sin motivo
+      @meenah_happytalk MEENAH: dejemos nuestro pasado turbio atr&#225;s
+      @meenah_happytalk MEENAH: dame un abrazo anda
+      @meenah_angrytalk MEENAH: &#161;&#161;&#161;eh cuidao con d&#243;nde tocas!!!
+      @damara_smoke DAMARA: 私は後悔していません。
+      @meenah_talk MEENAH: acepto tu disculpa
+      @meenah_talk MEENAH: bueno me vas a quitar ya ese glaciar enorme o no
+      @meenah_fish MEENAH: que me pillas con un pezque&#241;&#237;n de prisa
+      <!--  -->
+      </args>
+</action>
+  	</classes>
+</sburb>

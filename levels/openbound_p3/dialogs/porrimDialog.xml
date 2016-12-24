@@ -1,0 +1,86 @@
+<sburb>
+    <classes>
+  		<action class='porrimTalk1' sprite='meenah' command='talk' name='Cotillear lo que dicen.'>
+		      <args>
+		      @porrim_talk PORRIM: Parece que tenemo+s co+mpa&#241;&#237;a. &#161;Bueno+, lo+ dejaremo+s aqu&#237;!
+		      @porrim_happytalk PORRIM: Ha sido+ un placer verte. No+ te o+lvides de lo+ que hemo+s hablado+.
+		      @kanaya2_happytalk KANAYA: Pues Claro Que No
+		      @kanaya2_happytalk KANAYA: E Igualmente
+		      @kanaya2_happy KANAYA: ...
+		      @kanaya2_smirktalk KANAYA: Je Je
+		      @porrim_happytalk PORRIM: Asumes una gran respo+nsabilidad, ya que el futuro+ de to+da nuestra especie depende de ti.
+		      @porrim_happytalk PORRIM: Pero+ esto+y segura de que me eno+rgullecer&#225;s.
+		      @kanaya2_smirklaugh KANAYA: Ay Muchas Gracias
+		      <!--  -->
+		      </args>
+		</action>
+		<action class='porrimTalk2' sprite='meenah' command='talk' name='Pedir contrase&#241;a a Kanaya.'>
+      <args>
+      @meenah_talk MEENAH: otia pero si es piernas alegres acompa&#241;ada de la doble de la maryam
+      @meenah_happytalk MEENAH: que hac&#237;ais aqu&#237; a escondidas
+      @kanaya2_bored KANAYA: Nada Yo Ya Me Iba
+      @meenah_talk MEENAH: ad&#243;nde si pu&#233; saberse
+      @meenah_talk MEENAH: si vas a tirar pal meteorito a m&#237; tambi&#233;n me pilla de paso
+      @meenah_talk MEENAH: pero la puerta esa se interpone en mi camino
+      @meenah_happytalk MEENAH: dime la contrase&#241;a va
+      @kanaya2_idle KANAYA: Disculpa
+      @kanaya2_idle KANAYA: No
+      @meenah_happy MEENAH: venga t&#237;a
+      @porrim_annoyed2 PORRIM: &#191;Pero qu&#233; haces, Meenah? D&#233;jala en paz, es info+rmaci&#243;+n perso+nal.
+      @meenah_creepy MEENAH: V-ENGA T&#205;IIIIA
+      @meenah_happier MEENAH: que estoy de buenas
+      @kanaya2_bored KANAYA: No Me Digas
+      @meenah_angrytalk MEENAH: &#161;&#161;&#161;mira que como me enfade ni&#241;a!!!
+      @kanaya2_talk KANAYA: Tranquila Yo Tambi&#233;n Me Dirijo Al Meteorito
+      @kanaya2_talk KANAYA: Puedes Venir Conmigo Si 	Quieres Pero Ya Me Encargo Yo De Lo De La Puerta
+      @kanaya2_talk KANAYA: Eso S&#237; No Quiero Que Te Separes De M&#237; Bajo Ning&#250;n Concepto
+      @meenah_wut MEENAH: venga ya
+      @meenah_wut MEENAH: a qu&#233; viene eso
+      @kanaya2_talk KANAYA: A Que No Eres Una Persona De Fiar
+      @meenah_wut2 MEENAH: t&#250; flipas
+      @meenah_annoyed MEENAH: si soy una t&#237;a legal
+      @meenah_fish MEENAH: soy tan legal que podr&#237;a demandarte por pezagato
+      @kanaya2_bored:#Sarcasmo-Humano KANAYA: Vaya Ya Hay Que Tener Pocas Luces Para No Querer Juntarse Con Alguien Tan Ocurrente
+      @meenah_annoyedtalk MEENAH: qu&#233; te he hecho yo clon de maryam
+      @kanaya2_idle KANAYA: Me Da Que Eres Una Soci&#243;pata
+      @kanaya2_bored KANAYA: Y No Me Apetece Volver A Relacionarme Con Otra
+      @meenah_fish MEENAH: qu&#233; sabr&#225;s t&#250; t&#237;a
+      @meenah_talk MEENAH: digo yo que acabar&#233; por caerte bien secuela de maryam
+      @kanaya2_facepalm KANAYA: &#161;Que Me Llamo Kanaya!
+      @meenah_talk MEENAH: vale kanaya vale no te me rayes
+      @meenah_talk MEENAH: tu nombre da para chiste pero me lo tendr&#233; que currar si quiero que encaje en mi repertorio
+      @meenah_happytalk MEENAH: entonces nos llevaremos de PUTA madre
+      @kanaya2_cry KANAYA: 
+      @meenah_happytalk MEENAH: las damas primero ya ver&#225;s como cambias de idea con lo buena que soy
+      @meenah_creepy MEENAH: T-E LO JURO
+      @! &#191;Ser Kanaya?
+      <!-- y/n -->
+      </args>
+</action>
+
+<action class='porrimTalk3' sprite='kanaya' command='talk' name='Hablar con Porrim.'>
+      <args>
+      @porrim_happytalk PORRIM: Seguiremo+s en co+ntacto+, Kanaya. Puedes venir a visitarme en tus sue&#241;o+s siempre que quieras.
+      @porrim_happytalk PORRIM: Y no+ pierdas de vista a ese elemento+.
+      @meenah_annoyedtalk MEENAH: jurel macho
+      @meenah_annoyedtalk MEENAH: estos j&#243;venes de hoy en d&#237;a ya no respetan la coralqu&#237;a como manta&#241;o
+      @porrim_annoyedtalk PORRIM: Se&#241;o+r. Si a ti eso+ te da igual. Seguro+ que es o+tro+ pretexto+ para co+lar m&#225;s juego+s de palabras.
+      @meenah_annoyedtalk MEENAH: deja ya de calarme piernas alegres
+      <!--  -->
+      </args>
+</action>
+
+<action class='porrimTalk4' sprite='damara' command='talk' name='Pegar la oreja.'>
+      <args>
+      @porrim_angrytalk PORRIM: &#191;Te impo+rta, Damara? Queremo+s estar a so+las.
+      @damara_idle DAMARA: 
+      @porrim_angrytalk PORRIM: Vete. Po+r favo+r. Ya hablaremo+s + tarde.
+      @kanaya2_idle KANAYA: ...
+      @kanaya2_talk KANAYA: (empiezo a sentirme inc&#243;moda)
+      @porrim_talk PORRIM: (t&#250; no+ le hagas caso+. igno+r&#233;mo+sla y se ir&#225; co+n viento+ fresco+.)
+      <!--  -->
+      </args>
+</action>
+
+	</classes>
+</sburb>
