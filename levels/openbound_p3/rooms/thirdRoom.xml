@@ -235,22 +235,22 @@
     </sprite>
 
     <sprite class='chest7' name='thirdRoomChest12' x='1353' y='474'>
-      <action command='openChest' name='Open.'>
+      <action command='openChest' name='Abrir.'>
         <args>thirdRoomChest12,item12,
-                   @! You got a BOONBUCK!
-      @! Ok, you can't even pretend to be excited about this. You get the feeling that whoever was stocking these chests just started running out of treasure assets.
-      @! You put the phoned-in item back in the chest. But a little later, Meenah sneaks back over here, takes the boonbuck, and stashes it in her nautically themed, hot pink clam shell shaped purse, which we have never seen her rendered with, but is totally is something that exists in the most canonical way possible. There, now you know.
+                   @! &#161;Has conseguido un BOONPAVO!
+      @! Vale, esto ya pasa de casta&#241;o oscuro. &#191;Se le han acabado las ideas al reponecofres o qu&#233;?
+      @! Dejas el tesoro repetido donde lo has encontrado. Mas cuando nadie mire, Meenah se pasar&#225; de nuevo por aqu&#237;, saquear&#225; el cofre y se meter&#225; el boonpavo en su bolso rosa chill&#243;n con forma de almeja y a juego con su look n&#225;utico. No ha aparecido en ning&#250;n momento de la historia, pero se confirma oficialmente su existencia aqu&#237; y ahora. Avisados est&#225;is.
 
         </args>
       </action>
     </sprite>
 
     <sprite class='chest7' name='thirdRoomChest13' x='828' y='1206'>
-      <action command='openChest' name='Open.'>
+      <action command='openChest' name='Abrir.'>
         <args>thirdRoomChest13,item13,
-             @! EEEUUUGHH MORE TROLL BLOOD, WHY???
-      @! As you prepare to lob it into the dark shaft below, you catch a whiff of it. Hold on... it smells... fruity?
-      @! You guess it was a false alarm. This appears to be some form of delicious juice. Your bad.
+             @! AAAJJJJJJ &#191;&#191;&#191;DE D&#211;NDE SALE TANTA SANGRE DE TROLL???
+      @! Te dispones a tirar el frasco al abismo, pero su aroma se apodera de ti. Un momento... Huele... &#191;a fruta?
+      @! Falsa alarma. Solo es un zumo de toma pan y moja. Fallo tuyo.
         </args>
       </action>
     </sprite>

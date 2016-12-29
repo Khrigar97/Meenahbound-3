@@ -502,7 +502,7 @@
       <action command='openChest' name='Abrir.'>
         <args>firstRoomChest8,item6,
           @! &#161;Has conseguido un ROLLO DE BEFORUS ORIENTAL!
-          @!:#http://tinyurl.com/dialogos-damara Aqu&#237; solo hay caracteres incomprensibles. &#191;Existir&#225; alguna forma de traducir este sinsentido al cristiano?
+          @!:#http://tinyurl.com/dialogosdamara Aqu&#237; solo hay caracteres incomprensibles. &#191;Existir&#225; alguna forma de traducir este sinsentido al cristiano?
         </args>
       </action>
     </sprite>
