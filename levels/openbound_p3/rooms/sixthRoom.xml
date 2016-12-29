@@ -171,16 +171,16 @@
     </sprite>
 
     <sprite name='sleepKat' x='602' y='589' width='224' height='100'>
-      <action sprite='kanaya' command='talk' name='Examine snoozing Karkat.'>
+      <action sprite='kanaya' command='talk' name='Examinar al dormil&#243;n de Karkat.'>
             <args>
             @meenah_idle MEENAH: !!!!!
-            @! Hey, it's your newly recruited Grand Threshecutioner! Looks like he hasn't woken up from the same nap he was having last time you talked to him. The guy must have been really tired.
-            @! Why's he sleeping in this massive pile of horns? That can't be too comfortable. Maybe you should wake him up. Then as long as he's awake, might as well see if he's ready to pack his bags and head off to war.
-            @! Hold on. Maryam is eying you suspiciously. She isn't on to your plan, is she? How could she know? This girl is really cramping your style. You'd try to shake her loose, but as a rainbow drinker she seems to have an absolutely insane fastness attribute.
-            @kanaya2_talk KANAYA: Whatever Youre Thinking Dont Even Try It
-            @meenah_wut MEENAH: what!!!
-            @meenah_wut2 MEENAH: wasnt thinkin nofin
-            @kanaya2_talk KANAYA: Lets Keep Moving
+            @! &#161;Ah&#237; va, tu Verdugobernador Real! &#191;A&#250;n no se ha despertado desde vuestro &#250;ltimo encuentro? Estar&#225; reventado, el t&#237;o.
+            @! &#191;Pero qu&#233; hace ech&#225;ndose la siesta en esa monta&#241;a de bocinas? No parece que tenga mucho confort. Esta es la tuya: lo despiertas y si ya est&#225; listo para la reyerta, te agencias al mozo.
+            @! &#161;Tate! Esa Maryam no te quita ojo. No puede ser, &#191;se lo habr&#225; olido? Esta t&#237;a te est&#225; cortando el rollo. La mandar&#237;as a paseo, pero bien es sabido que en velocidad no hay qui&#233;n pueda con las bebearco&#237;ris.
+            @kanaya2_talk KANAYA: Ni Se Te Ocurra
+            @meenah_wut MEENAH: &#161;&#161;&#161;pero bueno!!!
+            @meenah_wut2 MEENAH: a m&#237; que me registren
+            @kanaya2_talk KANAYA: Venga Sigamos
             <!--  -->
             </args>
       </action>
