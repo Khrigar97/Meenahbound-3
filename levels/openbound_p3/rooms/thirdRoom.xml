@@ -215,21 +215,21 @@
     </sprite>
 
     <sprite class='chest7' name='thirdRoomChest10' x='2181' y='897'>
-      <action command='openChest' name='Open.'>
+      <action command='openChest' name='Abrir.'>
         <args>thirdRoomChest10,item10,
-             @! You got an EMPTY BOTTLE!
-      @! You guess... you'll just kinda...
-      @!:#boring-treasure Put it over there with the other bottles.
+             @! &#161;Has conseguido un FRASCO VAC&#205;O!
+      @! Anda... Un frasco...
+      @!:#vaya-muermo-de-tesoro Otro m&#225;s para la colecci&#243;n.
         </args>
       </action>
     </sprite>
 
     <sprite class='chest7' name='thirdRoomChest11' x='1698' y='474'>
-      <action command='openChest' name='Open.'>
+      <action command='openChest' name='Abrir.'>
         <args>thirdRoomChest11,item11,
-             @! You got a...
-      @! Hey what even is this thing?
-      @! Whatever it is, you got it.
+             @! &#161;Has conseguido un...!
+      @! &#191;Pero esto qu&#233; es?
+      @! Bueno, que lo has conseguido.
         </args>
       </action>
     </sprite>

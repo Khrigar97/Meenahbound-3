@@ -1,85 +1,85 @@
 <sburb>
 <classes>
-<action class='daveTalk1' sprite='kanaya' command='talk' name='Talk to Dave.'>
+<action class='daveTalk1' sprite='kanaya' command='talk' name='Hablar con Dave.'>
       <args>
-      @dave_idle DAVE: sup
-      @dave_talk DAVE: wait whats going on
-      @dave_talk DAVE: is the meteor passing through another dream bubble
-      @kanaya2_idle KANAYA: Yes
-      @kanaya2_talk KANAYA: Hence The Ghost Who Is Following Me
-      @dave_huh DAVE: oh
-      @dave_huh DAVE: hey
+      @dave_idle DAVE: ey
+      @dave_talk DAVE: vale que pasa
+      @dave_talk DAVE: nos hemos dado de lleno con otra burbuja o que
+      @kanaya2_idle KANAYA: Pues S&#237;
+      @kanaya2_talk KANAYA: Por Eso Tengo A Este Espectro De Acompa&#241;ante
+      @dave_huh DAVE: ah
+      @dave_huh DAVE: buenas
       @meenah_wink MEENAH: 
-      @dave_huhtalk DAVE: what you dont talk now?
-      @dave_smug DAVE: you were pretty spunky before what happened
-      @kanaya2_talk KANAYA: She Is Exhibiting Her Best Behavior While On This Tour
-      @kanaya2_happytalk KANAYA: Shes Actually Doing Very Well So Far
-      @dave_idle DAVE: ok whatever
-      @dave_talk DAVE: so what are we just not even bothering to care anymore when we pass through dream bubbles now
-      @dave_talk DAVE: like no warning or alert or getting into our facetious battle stations or anything
-      @dave_huh DAVE: eh who cares actually
-      @dave_huhtalk DAVE: i probably wont even leave the room this time
-      @dave_talk DAVE: getting a little bored of ghosts actually
-      @dave_smug DAVE: no offense sea troll
-      @meenah_fish MEENAH: (hornless dirtscraper)
-      @kanaya2_idle KANAYA: Shh!
+      @dave_huhtalk DAVE: &#191;te ha comido la lengua el pez gato?
+      @dave_smug DAVE: que ha sido del desparpajo de antes
+      @kanaya2_talk KANAYA: Intenta Portarse Como Mejor Puede Mientras La Escolto
+      @kanaya2_happytalk KANAYA: Debo Decir Que No Lo Hace Nada Mal
+      @dave_idle DAVE: po fale
+      @dave_talk DAVE: ahora ya pasamos del tema este de las burbujas del sue&#241;o no      
+	  @dave_talk DAVE: ya ni avisamos ni pensamos en replicas graciosas para el personal total pa que
+      @dave_huh DAVE: buah que mas da
+      @dave_huhtalk DAVE: mejor me quedo donde estoy
+      @dave_talk DAVE: que tanto fantasma ya aburre
+      @dave_smug DAVE: sin ofender besuga
+      @meenah_fish MEENAH: (blancucho cometierra)
+      @kanaya2_idle KANAYA: &#161;Chit&#243;n!
       @meenah_wut2 MEENAH: 38(
-      @kanaya2_happytalk KANAYA: So What Were You Just Mumbling Over Here Before I Interrupted You
-      @dave_talk DAVE: oh just some raps
-      @dave_talk DAVE: been working on my raps
-      @dave_talk DAVE: youve heard my raps right
-      @dave_talk DAVE: want to hear some raps
+      @kanaya2_happytalk KANAYA: Por Cierto Qu&#233; Farfullabas Antes De Nuestra Interrupci&#243;n
+      @dave_talk DAVE: nada estaba rapeando
+      @dave_talk DAVE: currandome unos temas
+      @dave_talk DAVE: eres fan de mi repertorio no
+      @dave_talk DAVE: te hace escuchar un poco
       @kanaya2_idle KANAYA: ...
-      @dave_huhtalk DAVE: wait do you know what rap is
-      @dave_talk DAVE: its this fly human tradition where you drop a beat and talk hard
-      @dave_talk DAVE: if the flow checks out and your rhymes are dope enough then the police start unholstering their guns
-      @dave_talk DAVE: they cant help it its like reflexive
-      @dave_talk DAVE: thats how you know youre doing it right
-      @kanaya2_talk KANAYA: I Know What Your Raps Are Theyre Basically The Same As The Ancient Artform Of Alternian Slam Poetry
-      @kanaya2_talk KANAYA: But More Primitive And Generally Involving Less Lyrics About Towering Muscular Livestock
-      @dave_idle DAVE: slam poetry
-      @dave_madtalk DAVE: why didnt you tell me about this
-      @kanaya2_talk KANAYA: I Dont Know I Dont Really Have Much Interest In The Subject
-      @dave_mad DAVE: yeah but
-      @dave_madtalk DAVE: it should have come up
-      @dave_huhtalk DAVE: wait now that i think about it
-      @dave_huhtalk DAVE: i remember some weird troll was rapping at me once
-      @kanaya2_idle KANAYA: Well There You Go
-      @dave_talk DAVE: but i mean we could have been talking about rap all this time
-      @dave_talk DAVE: you and me i mean
-      @dave_talk DAVE: it would have come up i think if we talked more
-      @dave_talk DAVE: kanaya we should talk more we dont really talk enough
-      @dave_talk DAVE: like really just
-      @dave_talk DAVE: get down to fucking business
-      @dave_talk DAVE: just the two of us
-      @dave_talk DAVE: all conversationally and such
-      @kanaya2_idle KANAYA: Um
-      @dave_idle DAVE: really like
-      @dave_smug DAVE: flesh out this dynamic
-      @dave_smug DAVE: see whats THERE
-      @dave_madtalk DAVE: we goddamn WILL squeeze blood from this stone
-      @dave_concern DAVE: this awkwardly quiet ghost troll as my witness
-      @kanaya2_talk KANAYA: If You Are Successful In Extracting Blood From The Geological Material In Question Can I Have It
-      @dave_smug DAVE: aw man
-      @dave_smug DAVE: kinda semi self deprecating vampire jokes this is a good start i like it
-      @kanaya2_talk KANAYA: I Dont Know How Sincere Youre Being Dave
-      @kanaya2_talk KANAYA: Probably Only Somewhat Since The Rule Is That Everything Has To Be At Least Partially A Joke Right
-      @dave_idle DAVE: yes exactly
-      @kanaya2_talk KANAYA: But If You Actually Want To Converse And Exchange Views On Our Respective Cultures Then Okay I Guess Thats Fine
-      @kanaya2_happytalk KANAYA: I Might Be Able To Dig Up Some Classic Texts By Some Famous Slam Poets
-      @dave_idle DAVE: oh man yes
-      @dave_talk DAVE: that would be so fucking perfect
-      @kanaya2_happytalk KANAYA: Ok I Will See What I Can Do
-      @dave_talk DAVE: youll have to read the troll gibberish to me
-      @dave_talk DAVE: itll be just like storytime with karkat 
-      @dave_idle DAVE: kanaya edition
-      @kanaya2_smirklaugh KANAYA: Heh Sure
-      @dave_smug DAVE: but youll have to rap the words
-      @kanaya2_facepalm KANAYA: Oh
-      @dave_smug DAVE: pump up the bass and slaughter the mic
-      @dave_madtalk DAVE: i want to goddamn FEEL that slam poetry
-      @kanaya2_bored KANAYA: Is It Too Late To Back Out Of This
-      @meenah_happy MEENAH: yes
+      @dave_huhtalk DAVE: espera no me digas que no sabes lo que es un rap
+      @dave_talk DAVE: es una tradicion de chulos muy nuestra que consiste en decir verdades como pu&#241;os siguiendo cierto ritmo
+      @dave_talk DAVE: si te lo curras y marcas tendencia vienen los maderos y te acribillan a balazos
+      @dave_talk DAVE: es un acto reflejo no pueden evitarlo
+      @dave_talk DAVE: eso quiere decir que vas por buen camino
+      @kanaya2_talk KANAYA: S&#233; Lo Que Es Un Rap Se Parece Bastante A Nuestro Arte Milenario De Torneos De Poes&#237;a
+      @kanaya2_talk KANAYA: Aunque Vuestra Tem&#225;tica No Es Tan Avanzada Como La Nuestra Ni Se Centra Tanto En Reses Fornidas
+      @dave_idle DAVE: como que torneos de poesia
+      @dave_madtalk DAVE: y me lo dices ahora
+      @kanaya2_talk KANAYA: No S&#233; Tampoco Es Que Me Interese Mucho
+      @dave_mad DAVE: pero a ver
+      @dave_madtalk DAVE: es la primera noticia que tengo
+      @dave_huhtalk DAVE: no espera
+      @dave_huhtalk DAVE: me acuerdo de la vez que rapee con el zumbado aquel
+      @kanaya2_idle KANAYA: Mira T&#250; Por D&#243;nde
+      @dave_talk DAVE: o sea que podiamos haber hablado de rap en cualquier momento
+      @dave_talk DAVE: tu y yo quiero decir
+      @dave_talk DAVE: con razon no salia el tema si no hablamos casi nada
+      @dave_talk DAVE: tenemos que hablar mas kanaya
+      @dave_talk DAVE: asi que ya sabes
+      @dave_talk DAVE: manos a la obra
+      @dave_talk DAVE: a darle al palique
+      @dave_talk DAVE: hasta que el cuerpo aguante
+      @kanaya2_idle KANAYA: Eh
+      @dave_idle DAVE: ya me has oido
+      @dave_smug DAVE: un intercambio de ideas
+      @dave_smug DAVE: igual hasta EXPLOTAMOS nuestro potencial
+      @dave_madtalk DAVE: aunque haya que chuparle la sangre al otro
+      @dave_concern DAVE: y esta mojama no dice nada pero se le quedara grabado en la retina
+      @kanaya2_talk KANAYA: Desconozco El M&#233;todo Que Emplear&#225;s Para Extraer Mi Plasma Sangu&#237;neo Pero Por M&#237; No Hay Problema
+      @dave_smug DAVE: si se&#241;or
+      @dave_smug DAVE: una peque&#241;a pulla a tu condicion de vampira me gusta empezamos bien
+      @kanaya2_talk KANAYA: Muchas Veces Veo Desdibujada La Sinceridad En Tus Palabras
+      @kanaya2_talk KANAYA: Imagino Que Sigues Cierta Ley No Escrita Que Dice Que Toda Frase Debe Contener Alg&#250;n Comentario Jocoso
+      @dave_idle DAVE: ahi le has dado
+      @kanaya2_talk KANAYA: Si En Alg&#250;n Momento Te Apeteciese Hablar Acerca De Nuestros Respectivos Patrimonios Bueno No Me Parecer&#237;a Mal
+      @kanaya2_happytalk KANAYA: Si Quieres Luego Me Pongo A Buscar Algo De Poes&#237;a Cl&#225;sica De Autores De Renombre
+      @dave_idle DAVE: dios si
+      @dave_talk DAVE: seria la hostia no lo siguiente
+      @kanaya2_happytalk KANAYA: Decidido Pues
+      @dave_talk DAVE: y me tienes que traducir ese galimatias vuestro
+      @dave_talk DAVE: como cuando karkat me cuenta sus peliculas 
+      @dave_idle DAVE: pero esta vez contigo
+      @kanaya2_smirklaugh KANAYA: Eh Claro
+      @dave_smug DAVE: ah y quiero que rapees en voz alta
+      @kanaya2_facepalm KANAYA: Ah
+      @dave_smug DAVE: dale ca&#241;a al bajo y echale mas le&#241;a al micro
+      @dave_madtalk DAVE: haz que SIENTA vuestra poesia en carne viva
+      @kanaya2_bored KANAYA: Ya Es Tarde Para Echarme Atr&#225;s Verdad
+      @meenah_happy MEENAH: aj&#225;
       <!--  -->
       </args>
 </action>   

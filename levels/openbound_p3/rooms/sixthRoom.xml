@@ -31,7 +31,7 @@
 </hud>
 
 <character class='karkat' x='792' y='638'>
-      <action sprite='dave' command='talk' name='Talk to Karkat.'>
+      <action sprite='dave' command='talk' name='Hablar con Karkat.'>
         <args>
         @karkat_talk KARKAT: OK, THIS IS JUST FUCKING STUPID NOW.
         @dave_idle DAVE: what
@@ -190,9 +190,9 @@
             <!--  -->
             </args>
       </action>
-      <action sprite='dave' command='talk' name='Examine snoozing Karkat.'>
+      <action sprite='dave' command='talk' name='Examinar al dormil&#243;n de Karkat.'>
             <args>
-            @! So many horns. You've always wondered what the elusive juggalo troll even needs with so many horns? You think he may have some sort of problem. Also what is with trolls and their weird tendency to be found sleeping in horn piles? You can't even imagine a less comfortable place to nap. There are some things you will never understand.
+            @! Vaya cuadro. "&#191;Para qu&#233; querr&#225; el juggalo ese tantas bocinas?", te preguntas. A esa sierpe le debe faltar m&#225;s de un tornillo. Y ya puestos, &#191;por qu&#233; tienen los trolls esa man&#237;a de acostarse en monta&#241;as de bocinas? &#191;Acaso se puede dormir ah&#237; a pierna suelta? Hay cosas que nunca entender&#225;s.
             <!--  -->
             </args>
       </action>
