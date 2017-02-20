@@ -1,107 +1,107 @@
 <sburb>
 <classes>
-<action class='kanayaTalk1' sprite='rose' command='talk' name='Talk to Kanaya.'>
+<action class='kanayaTalk1' sprite='rose' command='talk' name='Hablar con Kanaya.'>
       <args>
-      @rose_concern ROSE: Not to harp on the issue, but,
-      @rose_concern ROSE: Now that you can switch on and off, so to speak, how often do you think you'll resort to phosphorescence?
-      @kanaya2_talk KANAYA: I Dont Know
-      @kanaya2_talk KANAYA: What Do You Think
-      @rose_talk ROSE: Well, which state is more comfortable?
-      @kanaya2_talk KANAYA: I Could Go Either Way
-      @kanaya2_talk KANAYA: Ill Probably Switch On If Im Walking Through A Dark Corridor
-      @kanaya2_talk KANAYA: Now That I Think About It
-      @kanaya2_smirktalk KANAYA: Its Been A Long Time Since I Could Even Be In The Dark
-      @kanaya2_happytalk KANAYA: Maybe Ill Leave It Off For A While And Refamiliarize Myself With The Experience Of Nonillumination
-      @rose_idle ROSE: Makes sense.
-      @rose_talk ROSE: Was this a biological feature common to other trolls?
-      @kanaya2_idle KANAYA: Um
-      @rose_talk ROSE: I'm sorry. I'm really pestering you about this, aren't I?
-      @rose_talk ROSE: We've never talked about it. I guess I was trying to be polite, but I've been really curious about it.
-      @kanaya2_talk KANAYA: No Thats Ok
-      @kanaya2_talk KANAYA: Im Told Its A Trait Confined To Those Of My Caste
-      @kanaya2_talk KANAYA: They Tended To Spend A Lot Of Time In The Brooding Caverns Where A Convenient Source Of Light Was Often Handy
-      @kanaya2_talk KANAYA: That Part Of It Makes Sense To Me But I Have No Idea What The Evolutionary Purpose Was For The Sort Of Thirst Which Accompanies This Perk
-      @kanaya2_talk KANAYA: Strikes Me As An Odd Liability But What Do I Know
-      @rose_concern ROSE: Maybe to frighten predators away from innocent grubs?
-      @kanaya2_idle KANAYA: Maybe
-      @kanaya2_talk KANAYA: Or Perhaps It Was A Measured Defect Imposed On Us
-      @kanaya2_bored KANAYA: To Keep The Auxiliatrices On A Short Leash
-      @rose_talk ROSE: I'll agree with that assessment, on the grounds that I've always been a sucker for a good conspiracy theory.
-      @kanaya2_talk KANAYA: The Condition Was Often Glamorized In Certain Works Of Literature
-      @kanaya2_talk KANAYA: But Theres Really Nothing That Great About It
-      @kanaya2_talk KANAYA: Not Nearly As Useful As Other Abilities Like The Psychic Gifts Which Some Lowbloods Are Predisposed To
-      @kanaya2_talk KANAYA: Though I Guess Its Pretty Useful If You Want To Keep The Plans You Made After Someone Punches A Hole Through Your Gut
-      @rose_talk ROSE: I can see how that could present a whole world of convenience.
-      @rose_happytalk ROSE: Speaking of plans, doing anything later?
-      @kanaya2_idle KANAYA: Not Really
-      @rose_happytalk ROSE: I'm working on some stuff right now, but later, maybe once you're finished escorting your guest around, would you like to do something?
-      @kanaya2_idle KANAYA: Sure
-      @kanaya2_talk KANAYA: Anything In Particular That You Have In Mind
-      @rose_talk ROSE: Not really. Just to hang out. If you're up for it!
-      @kanaya2_happytalk KANAYA: Yeah That Sounds Okay
-      @meenah_annoyed MEENAH: (holy mackerel get a fuckin room)
+      @rose_concern ROSE: No quisiera ser pesada, pero...
+      @rose_concern ROSE: Ahora que puedes controlar tu, llam&#233;moslo luminosidad, &#191;volver&#225;s a echar mano de tu antiguo fulgor?
+      @kanaya2_talk KANAYA: No S&#233;
+      @kanaya2_talk KANAYA: T&#250; Qu&#233; Opinas
+      @rose_talk ROSE: Pues... &#191;En qu&#233; estado te sentir&#237;as m&#225;s a gusto?
+      @kanaya2_talk KANAYA: Cualquiera De Los Dos Me Vale
+      @kanaya2_talk KANAYA: Imagino Que Me Encender&#233; Si Me Encontrara Por Ejemplo En Un Callej&#243;n A Oscuras
+      @kanaya2_talk KANAYA: Aunque Ahora Que Lo Pienso
+      @kanaya2_smirktalk KANAYA: Hace Mucho Que No Me Dejo Ba&#241;ar Por La Oscuridad
+      @kanaya2_happytalk KANAYA: Mejor Sigo Apagada Otro Rato M&#225;s Que Tampoco Me Conviene Deshabituarme De La Lobreguez Natural
+      @rose_idle ROSE: Entiendo.
+      @rose_talk ROSE: &#191;Se conocen m&#225;s casos de espec&#237;menes con tu funci&#243;n biol&#243;gica?
+      @kanaya2_idle KANAYA: Esto
+      @rose_talk ROSE: Perdona si te estoy dando la noche, Kanaya.
+      @rose_talk ROSE: Nunca hemos hablado del tema y no quiero sonar grosera. Es solo que me puede la curiosidad.
+      @kanaya2_talk KANAYA: Tranquila No Pasa Nada
+      @kanaya2_talk KANAYA: Solo Se Dan En Los De Mi Sangre Hasta Donde Yo S&#233;
+      @kanaya2_talk KANAYA: Sol&#237;an Pasar La Mayor Parte Del Tiempo En Cavernas Incubadoras Donde Hab&#237;a Fuentes Luminosas En Abundancia
+      @kanaya2_talk KANAYA: Hasta Ah&#237; Llego Pero Desconozco El Motivo Por El Que Adem&#225;s De La Ventaja &#211;ptica Desarrollamos Tambi&#233;n Nuestra Afamada Sed
+      @kanaya2_talk KANAYA: Solo Nosotras Padecemos Este Escollo Supongo Que Jam&#225;s Sabr&#233; Por Qu&#233;
+      @rose_concern ROSE: &#191;Y si fuese un mecanismo para ahuyentar a los depredadores? Al fin y al cabo, la camada no puede defenderse por s&#237; sola.
+      @kanaya2_idle KANAYA: Es Posible
+      @kanaya2_talk KANAYA: Aunque Tambi&#233;n Podr&#237;a Ser Una Tara Preconcebida Por Los De Arriba
+      @kanaya2_bored KANAYA: Con Tal De Mantener A Las Auxiliatrices A Raya Lo Que Sea
+      @rose_talk ROSE: Prefiero tu teor&#237;a. Donde est&#233; una buena conspiraci&#243;n del gobierno, que se quite todo lo dem&#225;s.
+      @kanaya2_talk KANAYA: Hay Novelas En Las Que Idealizan A Las Vampiresas De Alternia
+      @kanaya2_talk KANAYA: Pero La Realidad Es Bien Distinta
+      @kanaya2_talk KANAYA: Nuestras Aptitudes No Se Salen Del Espectro De Lo Ordinario A Diferencia De Los Sangrebaja Que Pueden Nacer Con Dotes Telep&#225;ticas
+      @kanaya2_talk KANAYA: Lo Bueno Es Que Nadie Puede Echarme Los Planes Por Tierra Aunque Me Abran Un Orificio Nuevo Entre Pecho Y Espalda
+      @rose_talk ROSE: Aun con todo, no os pod&#233;is quejar, no.
+      @rose_happytalk ROSE: Hablando de planes, &#191;haces algo luego?
+      @kanaya2_idle KANAYA: Pues No
+      @rose_happytalk ROSE: Ahora estoy algo liada pero, &#191;te apetece quedar dentro de un rato? Si eso cuando termines de acompa&#241;ar a esta muchacha.      
+	  @kanaya2_idle KANAYA: Me Parece Bien
+      @kanaya2_talk KANAYA: Tienes Ya Algo En Mente
+      @rose_talk ROSE: No, no. Lo que surja. &#161;Si quieres, ojo!
+      @kanaya2_happytalk KANAYA: Claro Me Encantar&#237;a
+      @meenah_annoyed MEENAH: (irse a un hotel joer ya)
       <!--  -->
       </args>
 </action>
-<action class='kanayaTalk2' sprite='dave' command='talk' name='Talk to Kanaya.'>
+<action class='kanayaTalk2' sprite='dave' command='talk' name='Hablar con Kanaya.'>
       <args>
-      @dave_talk DAVE: (you shattered the ring but theres more cracks in your rap)
-      @dave_talk DAVE: (ima top off your glass cause devastations on tap)
-      @dave_huh DAVE: (wait no)
-      @dave_talk DAVE: (your act couldnt suck more dick with a puppet in your lap)
-      @dave_huh DAVE: (what)
-      @dave_huhtalk DAVE: (puppet... man where that come from)
-      @dave_talk DAVE: (you shattered the ring but theres more cracks in your rap)
-      @dave_talk DAVE: (your flows like warm milk that goes good with a nap)
-      @dave_smug DAVE: (haha yes)
-      @dave_talk DAVE: (shit lets be rails ill be the shoosh to your pap)
-      @dave_huhtalk DAVE: (wait that makes no fuckin sense)
-      @dave_huhtalk DAVE: (naw ill stick with the milk one)
-      @dave_talk DAVE: (yall claimin to be the lord of time)
-      @dave_talk DAVE: (all ya makin me feel is bored with your rhymes)
-      @dave_huhtalk DAVE: (thats ok i guess)
-      @dave_huhtalk DAVE: (still feel like i should work puppets into this)
-      @dave_huhtalk DAVE: (no idea why)
-      @dave_madtalk DAVE: (what rhymes with puppets)
-      @dave_idle DAVE: (uh)
-      @dave_huh DAVE: (smuppets)
-      @dave_madtalk DAVE: (dave no thats the same fuckin thing)
-      @dave_idle DAVE: (muppets)
-      @dave_huh DAVE: (what the fuck)
-      @dave_huh DAVE: (the only thing that rhymes with puppets is different kinds of puppets!!!)
+      @dave_talk DAVE: (te cargas todo lo que existe pero tu arte es mera prosa)
+      @dave_talk DAVE: (en cuanto te las veas conmigo te iras derecho a la fosa)
+      @dave_huh DAVE: (no quita)
+      @dave_talk DAVE: (hasta un mu&#241;eco te deja mordiendo la losa)
+      @dave_huh DAVE: (eh)
+      @dave_huhtalk DAVE: (madre... que hago ahora pensando en mu&#241;ecos)
+      @dave_talk DAVE: (te cargas todo lo que existe pero tu arte es mera prosa)
+      @dave_talk DAVE: (&#191;lacteos pa dormir? mi leche si que te dejara sopa)
+      @dave_smug DAVE: (ja toma ya)
+      @dave_talk DAVE: (si tu me haces shhhhh yo te hago pap tenemos una sinergia de toma pan y moja)
+      @dave_huhtalk DAVE: (espera que co&#241;o estoy diciendo)
+      @dave_huhtalk DAVE: (bah me quedo con la de la leche)
+      @dave_talk DAVE: (te llamaban lord en tu universo)
+      @dave_talk DAVE: (pero en realidad no sabes ni juntar dos versos)
+      @dave_huhtalk DAVE: (pasable pero me vale)
+      @dave_huhtalk DAVE: (y no dejo de darle vueltas al tema de los mu&#241;ecos)
+      @dave_huhtalk DAVE: (vere si puedo apa&#241;ar algo)
+      @dave_madtalk DAVE: (hay algo que rime con mu&#241;eco)
+      @dave_idle DAVE: (eh)
+      @dave_huh DAVE: (obsce&#241;eco)
+      @dave_madtalk DAVE: (joder dave eso viene a ser lo mismo)
+      @dave_idle DAVE: (tele&#241;eco)
+      @dave_huh DAVE: (me cago en la)
+      @dave_huh DAVE: (&#161;&#161;&#161;solo puedo rimar mu&#241;eco con mas mu&#241;ecos!!!)
       @kanaya2_idle KANAYA: ...
-      @dave_huh DAVE: whoa
-      @dave_huh DAVE: hey uh
-      @dave_huhtalk DAVE: how much of that did you hear
-      @kanaya2_talk KANAYA: By The Tenor Of The Question Ill Assume More Than You Would Prefer
-      @dave_madtalk DAVE: all that shit was a work in progress
-      @dave_madtalk DAVE: aint fit for hype yet
-      @dave_madtalk DAVE: why you gotta be eavesdroppin
-      @kanaya2_idle KANAYA: I Wasnt
-      @kanaya2_talk KANAYA: I Was Just Standing Here And You Slowly Wandered Over In A Totally Oblivious Stupor
-      @kanaya2_talk KANAYA: You Were Mumbling Your Rhymes And Walked Right Up To Me And Did Not Notice Me Until Now
-      @dave_huh DAVE: shit
-      @dave_huh DAVE: was i
-      @dave_huhtalk DAVE: sorry i guess i just got caught up in my raps
-      @meenah_ohyes MEENAH: do more!
-      @dave_huh DAVE: what
+      @dave_huh DAVE: hostia
+      @dave_huh DAVE: eh tu
+      @dave_huhtalk DAVE: cuanto tiempo llevas aqui
+      @kanaya2_talk KANAYA: A Juzgar Por El Tenor De La Pregunta Dir&#233; Que M&#225;s Del Que Te Gustar&#237;a
+      @dave_madtalk DAVE: estoy trabajando en mi proximo temazo
+      @dave_madtalk DAVE: aun me queda pulirlo
+      @dave_madtalk DAVE: y no me mola que vengas asi sin avisar
+      @kanaya2_idle KANAYA: Te Equivocas
+      @kanaya2_talk KANAYA: Estaba Haciendo Un Peque&#241;o Alto En El Camino Y Vi Como Te Ibas Acercando A M&#237; Imagino Que En Babia
+      @kanaya2_talk KANAYA: Cantabas Ese Rap Tuyo Entre Dientes Y Te Percataste De Mi Presencia Justo Antes De Que Nos Di&#233;ramos De Bruces
+      @dave_huh DAVE: hostia
+      @dave_huh DAVE: no jodas
+      @dave_huhtalk DAVE: perdona el rap ha podido conmigo
+      @meenah_ohyes MEENAH: &#161;dale m&#225;s ca&#241;a!
+      @dave_huh DAVE: que
       @dave_huh DAVE: no
-      @dave_huhtalk DAVE: i cant those rhymes are still too rough around the edges
-      @meenah_creepy MEENAH: come on
-      @dave_madtalk DAVE: no itll suck
-      @dave_idle DAVE: i mean
-      @dave_talk DAVE: i could freestyle a bit i guess
-      @dave_talk DAVE: i dont know if i got a live performance in me now
-      @dave_talk DAVE: maybe it could work if someone dropped a beat
-      @dave_smug DAVE: need a good beat i could probably kill it with a fly beat
-      @meenah_talk MEENAH: aheh hem...
-      @meenah_fishtalk:#no-wait-wait... MEENAH: dum dum PS)( ba dum dum PS)(
+      @dave_huhtalk DAVE: este tema todavia tiene el ritmo muy verde
+      @meenah_creepy MEENAH: venga t&#237;o
+      @dave_madtalk DAVE: que paso
+      @dave_idle DAVE: bueno
+      @dave_talk DAVE: siempre puedo improvisar un poco
+      @dave_talk DAVE: aunque no se si soy de los que se desenvuelven en publico
+      @dave_talk DAVE: igual la cosa cambia con un poco de ritmo
+      @dave_smug DAVE: y si es un ritmazo ya ni hablamos de la que se va a liar
+      @meenah_talk MEENAH: ejem ejem...
+      @meenah_fishtalk:#no-ahora-ahora... MEENAH: dum dum PS)( ba dum dum PS)(
       @meenah_fishtalk MEENAH: chum chum FIS)( ba chum chum FIS)(
-      @dave_smug DAVE: awwwww yeah
-      @dave_smug DAVE: that fish beat is the shizzle
-      @dave_concern DAVE: thats what i am TALKING about
-      @dave_madtalk DAVE: alright settle down motherfuckers here we go 
-      @kanaya2_talk KANAYA: They Then Proceeded To Have One Of The Most Ambiguously Rated Rap Offs In The History Of Paradox Space While I Stood By And Regarded It Neutrally
+      @dave_smug DAVE: tooooma ya
+      @dave_smug DAVE: hemos inventado el lonjabeat
+      @dave_concern DAVE: ESTO es lo que me pedia el cuerpo
+      @dave_madtalk DAVE: vamos a darle ca&#241;a gentuza 
+      @kanaya2_talk KANAYA: Y Rapearon Con Una Aptitud Ambigua Nunca Vista En Todo El Espacio Parad&#243;jico De La Cual Yo Mantengo Una Opini&#243;n Neutral
       <!--  -->
       </args>
 </action>
