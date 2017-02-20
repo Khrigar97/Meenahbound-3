@@ -1,230 +1,230 @@
 <sburb>
     <classes>
-<action sprite='meenah' class='expoTalk1' command='talk' name='Status report.'>
+<action sprite='meenah' class='expoTalk1' command='talk' name='&#191;C&#243;mo va la situaci&#243;n?'>
       <args>
-      @meenah_annoyed:#kelp MEENAH: welp
-      @meenah_annoyedtalk MEENAH: im a total failure
-      @meenah_annoyedtalk MEENAH: didnt recruit a single ghost for my army
-      @meenah_wut2 MEENAH: except for one guy but he was asleep
-      @aranea_happytalk ARANEA: Don't lose hope! I know our group of friends is a 8it lackluster in the motivation department, 8ut there are plenty of other souls out there.
-      @aranea_happytalk ARANEA: You just need to find someone with the right amount of moxy to get you started. Then I'm sure more will follow.
-      @aranea_happytalk ARANEA: Who knows, if you keep exploring, may8e someone like that will 8e right around the corner!
-      @meenah_talk MEENAH: you seem more psyched about my army plan than you did before
-      @meenah_talk MEENAH: whats with the change of tuna
-      @aranea_happytalk ARANEA: I've started to 8elieve that what you're doing may 8e important. Just a feeling.
-      @aranea_happytalk:#Or,-prongs-of-a-fork,-if-you-will. ARANEA: It could 8e every 8it as critical as my quest to find the cheru8. I think it all could 8e related. Like legs of a stool that won't stand unless all are in place.
-      @meenah_talk MEENAH: how is cherubquest goin btw
-      @aranea_think ARANEA: Uh... ok.
-      @aranea_think ARANEA: I've still 8een........ a little preoccupied.
-      @meenah_idle MEENAH: girl please
-      @meenah_talk MEENAH: you been draggin your talking booth around to hassle people with facts aintcha
-      @aranea_surprised ARANEA: This is my last session, I swear!!!!!!!!
-      @aranea_talk ARANEA: After this, I promised myself I would retire the exposition stand for good. May8e I'll put it up for sale, and try to recoup some of the su8stantial losses required to operate it.
-      @meenah_talk MEENAH: aranea we are such failures at stuff together
-      @meenah_talk MEENAH: why are we such a couple of gorgeous and sexy failures at things
-      @aranea_happytalk ARANEA: I don't know, 8ut we can't give up!
-      @aranea_happytalk ARANEA: Once I close down shop here, I will redou8le my efforts to find that cheru8.
-      @aranea_happytalk ARANEA: The first thing to do will 8e to figure out her name. It's 8een so maddeningly elusive, almost as if someone's taken care to scru8 any reference to it throughout paradox space, whether in memories or reality.
-      @meenah_talk MEENAH: ok then how about this
-      @meenah_talk MEENAH: while im out there fishin for recruits ill keep an ear out for clues about her
-      @meenah_talk MEENAH: and while youre out there cherub hunting maybe you can see if anyone wants to serve the lil condesce in her slammin new imperial army
-      @meenah_idle MEENAH: itll be
-      @meenah_happy MEENAH: teamfork
-      @aranea_happier ARANEA: That sounds like a great plan!
-      @aranea_happier ARANEA: Now let's hurry this up so we can get started on that. What would you like me to tell you a8out in exchange for the precious few 8oon8ucks I have left?
+      @meenah_annoyed:#pos-pelillos-a-la-mar MEENAH: bah
+      @meenah_annoyedtalk MEENAH: no sirvo pa na
+      @meenah_annoyedtalk MEENAH: no se me ha alistao ni el tato
+      @meenah_wut2 MEENAH: y mi &#250;nico mozo ah&#237; tirao a la bartola
+      @aranea_happytalk ARANEA: &#161;No te hundas! Puede que nuestra pandilla sea la definici&#243;n de la desgana, pero &#191;y el resto de almas errantes?
+      @aranea_happytalk ARANEA: Alguien tendr&#225; la determinaci&#243;n que tu revuelta necesita. El resto vendr&#225; solo, ya ver&#225;s.
+      @aranea_happytalk ARANEA: &#191;Qui&#233;n sa8e? Quiz&#225;s esa persona est&#233; a la vuelta de la esquina. &#161;No dejes de 8uscarla!
+      @meenah_talk MEENAH: te noto m&#225;s metida ahora en mis asuntos militares
+      @meenah_talk MEENAH: te has levantao hoy con la aleta izquierda o qu&#233;
+      @aranea_happytalk ARANEA: Ll&#225;malo intuici&#243;n, pero estoy segura de que tu estrategia llegar&#225; a 8uen puerto.
+      @aranea_happytalk:#O,-c&#243;mo-no,-las-puntas-de-tu-tridente ARANEA: Hasta dir&#237;a que urge tanto como encontrar a la queru8&#237;n. Unidas hacemos la fuerza, como las patas de un ta8urete.
+      @meenah_talk MEENAH: alguna novedad en la operaci&#243;n querub&#237;n
+      @aranea_think ARANEA: Ah... Pues...
+      @aranea_think ARANEA: Esto........ He estado liada y........
+      @meenah_idle MEENAH: anda ya
+      @meenah_talk MEENAH: fijo que te has tirado con el puesto de ac&#225; para all&#225; dando el co&#241;azo al personal
+      @aranea_surprised ARANEA: &#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;Te juro que esta ser&#225; la &#250;ltima vez!!!!!!!!
+      @aranea_talk ARANEA: Y lo digo en serio, tengo pensado deshacerme del puesto de informaci&#243;n. A ver si vendi&#233;ndolo amortizo el servicio ofrecido, que la inversi&#243;n ha sido considera8le.
+      @meenah_talk MEENAH: no damos pie con bola aranea
+      @meenah_talk MEENAH: estaremos macizorras pero es que no damos pie con bola
+      @aranea_happytalk ARANEA: &#161;Raz&#243;n de m&#225;s para no tirar la toalla!
+      @aranea_happytalk ARANEA: En cuanto cierre el negocio, me centrar&#233; solamente en la 8&#250;squeda.
+      @aranea_happytalk ARANEA: Primero de8o averiguar c&#243;mo se llama la zagala. No s&#233; a qu&#233; viene tanto secretismo. Es como si alguien se hu8iese empe&#241;ado en 8orrar todo rastro del nom8re, incluso en los recuerdos de la gente.
+      @meenah_talk MEENAH: mira hagamos un trato
+      @meenah_talk MEENAH: yo pesco nuevos fichajes y ya que estoy te pego un toque si alguien supiera algo de ella
+      @meenah_talk MEENAH: t&#250; buscas a la querub&#237;n esa y ya que est&#225;s me cuelas a reclutas pa las fuerzas armadas de la condi la chula
+      @meenah_idle MEENAH: qu&#233; te parece
+      @meenah_happy MEENAH: de perdidos al r&#237;o no
+      @aranea_happier ARANEA: &#161;Es una idea fant&#225;stica!
+      @aranea_happier ARANEA: Venga, cuanto antes terminemos la sesi&#243;n, antes la pondremos en pr&#225;ctica. &#191;Qu&#233; quieres sa8er a cam8io de mis &#250;ltimos ahorros?
       <!--  -->
       </args>
 </action>
 
 
-<action sprite='meenah' class='expoTalk2' command='talk' name='Tell me about Rufioh Nitram.'>
+<action sprite='meenah' class='expoTalk2' command='talk' name='H&#225;blame de Rufioh Nitram.'>
       <args>
-      @aranea_happytalk ARANEA: The Rogue of 8reath was always a very popular mem8er of our group. Pro8a8ly the most popular, I'd say. Sort of the anti-me, in that respect. Ever the recipient of romantic solicitations whichever way he turned. Sort of the anti-Cronus, in that respect.
-      @meenah_creepylaugh MEENAH: aw yeah sick ampora burn outta nowhere hi 5
-      @aranea_happytalk ARANEA: Indeed. His mutation made him an outcast, though. To avoid the unwanted attention his wings would 8ring him, he took refuge in the forest among those who welcomed his differences, and learned their ways.
-      @aranea_happytalk ARANEA: The Lost Weea8oos was a guild of youthful tree-dwelling troll otakus with a zeal for fisticuffs, flight, and various forms of exotic eastern theater. 8ane to the enemies of hijinks, scourge to the seafaring classes who...
-      @meenah_fish MEENAH: NOP-E
-      @meenah_fishtalk MEENAH: NOT LISFININ TO T)(IS LA LA LA GLUB GLUB GLUB
-      @aranea_annoyedtalk ARANEA: #77003c (GLUB GLUB GLUB GLUB)## centuries of feuding with the Kemonomimi tri8es #77003c (GLUB GLUB GLUB LA LA LA LA GLUB GLUB GLUB)## ceremonial torchlight yaoi festivals #77003c (LA LA LA LA GLUB GLUB LA LA LA)## tsundere quadrant vacillation #77003c (GLUUUUUB GLUBGLUBGLUBGLUB GLUUUUUUUUUB)## threw down a daggerlance to challenge the guild's high seme for dominance #77003c (NO NO NO NO NO NO NO NO NO NO)## ultimately served like a shonen on Shitsuji Island.
-      @meenah_annoyed MEENAH: hey serket
-      @meenah_annoyedtalk MEENAH: how much i gotta pay you to zip yer blowhole on this shit so tight you never bring it up again
-      @aranea_happier ARANEA: For such a service, I will require nothing short of the large gold statue in your palace. I think you know which one I'm talking a8out.
-      @meenah_annoyedtalk MEENAH: you drive a hard bargain serks
-      @meenah_annoyed MEENAH: but you got a deal
+      @aranea_happytalk ARANEA: El P&#237;caro del Aliento tuvo muy 8uena acogida en nuestra panda. Su popularidad le preced&#237;a en todo momento. Todo lo contrario a m&#237;. Tam8i&#233;n fue 8lanco de inconta8les cortejos rom&#225;nticos. Todo lo contrario a Cronus.
+      @meenah_creepylaugh MEENAH: hostia buena esa ja ja te den por culo ampora choca esos cinco t&#237;a
+      @aranea_happytalk ARANEA: S&#237;, pero tam8i&#233;n fue marginado por su condici&#243;n de mutante. Harto de que sus alas fuesen el centro de todas las miradas, se march&#243; a vivir al 8osque. Pese a sus diferencias, all&#237; se sinti&#243; aceptado y no tard&#243; en integrarse.
+      @aranea_happytalk ARANEA: Los Otacos Perdidos fueron una cofrad&#237;a juvenil cuyos miem8ros se asenta8an en &#225;r8oles y manifesta8an su pasi&#243;n por la gresca, el vuelo, y su ex&#243;tico drama oriental. Tam8i&#233;n se les conoc&#237;a como la cruz de la gente madura, el azote de los lo8os de mar...
+      @meenah_fish MEENAH: PARA
+      @meenah_fishtalk MEENAH: LA LA LA CALLA TRUC)(O QU-E NO T-E -ESCUC)(O GLUB GLUB GLUB
+      @aranea_annoyedtalk ARANEA: #77003c (GLUB GLUB GLUB GLUB)## enemistad milenaria con las tri8us Kemonomimi #77003c (GLUB GLUB GLUB LA LA LA LA GLUB GLUB GLUB)## ceremonias yaoi junto al fuego #77003c (LA LA LA LA GLUB GLUB LA LA LA)## indecisi&#243;n tsundere en sus cuadrantes #77003c (GLUUUUUB GLUBGLUBGLUBGLUB GLUUUUUUUUUB)## le desafi&#243; con su pu&#241;alanza y al sumo seme no le qued&#243; otra que jugarse su prestigio #77003c (NO NO NO NO NO NO NO NO NO NO)## peor que un fuketsu en una isla de shitsujis.
+      @meenah_annoyed MEENAH: esto serket
+      @meenah_annoyedtalk MEENAH: cu&#225;nto quieres a cambio de no volver a hablar del puto tema
+      @aranea_happier ARANEA: Lo m&#237;nimo que exijo es esa estatua de oro macizo que adorna tu palacio. Ya sa8es a cu&#225;l me refiero.
+      @meenah_annoyedtalk MEENAH: las matas callando serki
+      @meenah_annoyed MEENAH: toda tuya
       <!--  -->
       </args>
 </action>
 
 
-<action sprite='meenah' class='expoTalk3' command='talk' name='Tell me about Horuss Zahhak.'>
+<action sprite='meenah' class='expoTalk3' command='talk' name='H&#225;blame de Horuss Zahhak.'>
       <args>
-      @aranea_happytalk ARANEA: The Page of Void was a self taught master of mechanics, an avid patron of the fine arts, a passionate 8ody 8uilder, archer, am8rosia collector and steamwright. A poet, a scholar, a warrior, a lover, he was all that his caste demanded and more. A true troll Renaissance man. His name means "He Who Stalks With The Muscle8easts."
-      @aranea_happytalk ARANEA: 8ut all of his proficiencies were hard won, 8uilt from the 8lank slate as his aspect would imply, advancing at the slow pace his class would as well. Yet in spite of all he worked to make something of himself, he amounted to very little. Responsi8le for neither great feats of heroism nor acts of villainy, he was just another game piece to 8e moved a8out the 8oard. The aspect ruling his life would always conspire to dampen his relevance.
-      @aranea_happytalk ARANEA: Void is easily the most mysterious aspect, the one which inherently defies rational understanding. This makes it particularly fascinating, and just as frustrating, to light players such as myself. Casting illumination upon nothing itself is futile. For to truly know void is to paradoxically cause it not to 8e!
-      @aranea_happytalk ARANEA: The role of the void player is to somehow em8race nothingness, to 8ecome one with it. And yet in total contradiction with this, to make use of the power it grants and serve a role of relevance, one must find a way to overcome it! To see the limitless potential in the void. To find everything within nothing, and 8ring it into 8eing. 
+      @aranea_happytalk ARANEA: El Paje del Vac&#237;o domin&#243; el arte de la mec&#225;nica por cuenta propia, pero tam8i&#233;n conta8a con m&#225;s facetas: mecenas, amante del culturismo, arquero, consumidor de am8ros&#237;a y vaporero. Fue todo un ejemplo para sus cong&#233;neres. Poeta, sa8io, guerrero, amante: lo que se dice un troll del Renacimiento. Su nom8re significa: "El jinete al acecho".
+      @aranea_happytalk ARANEA: Sin em8argo, le cost&#243; mucho sudor adquirir tantas maestr&#237;as. Su aspecto condicion&#243; su falta de aptitudes, mientras que su clase le dificult&#243; el aprendizaje. Mas por mucho que se esforzarse en lograr alg&#250;n triunfo, apenas destac&#243; en nada. No realiz&#243; ninguna haza&#241;a ni cometi&#243; ninguna fechor&#237;a, solo se limit&#243; a ser una pieza m&#225;s del ta8lero. Los hados confa8ula8an asiduamente para mermar su huella por el mundo.
+      @aranea_happytalk ARANEA: No hay aspecto m&#225;s extra&#241;o que el vac&#237;o, ya que no existe forma l&#243;gica de comprenderlo. Para los que entienden de la luz, como una servidora, esto nos fascina y nos frustra a partes iguales. No tiene sentido racionalizar lo que no es. &#161;Qui&#233;n alcance a comprender el vac&#237;o solo se quedar&#225; con lo que es! Parad&#243;jico, &#191;verdad?
+      @aranea_happytalk ARANEA: El cometido de los jugadores del vac&#237;o es adherirse a la nada, hacerse uno con ella. &#161;Pero lo contradictorio es que tam8i&#233;n de8en adue&#241;arse de ella! Solo as&#237; podr&#225;n valerse de su aspecto y co8rar la misma relevancia que sus semejantes. El vac&#237;o encierra un potencial ilimitado; todo lo que es reside en lo que no es, y estos jugadores pueden manifestarlo como existente.
       @aranea_annoyed #77003c MEENAH: zzzzzzzzzzz##
-      @aranea_angrytalk ARANEA: Hey!!!!!!!!
-      @meenah_wut2 MEENAH: wuh
-      @aranea_annoyedtalk ARANEA: This is a perfect case in point, regarding the path of the void player. So resistant is his story to having a relevant 8earing on anything, you fell asleep and didnt hear a word.
-      @meenah_annoyed MEENAH: yeah thats nice
-      @meenah_annoyed MEENAH: WH-ER-E MA MON-EY
-      @aranea_facepalmtalk ARANEA: You don't get any. Your slum8er voided the transaction.
-      @meenah_wut MEENAH: dag
+      @aranea_angrytalk ARANEA: &#161;&#161;&#161;&#161;&#161;&#161;&#161;&#161;Eh!!!!!!!!
+      @meenah_wut2 MEENAH: mmm
+      @aranea_annoyedtalk ARANEA: Aca8o de ha8lar de la senda que toman los que son como Horuss, y t&#250; me das la raz&#243;n sin sa8erlo. Su historia es tan intrascendente que te has quedado frita en el sitio.
+      @meenah_annoyed MEENAH: que s&#237; que s&#237;
+      @meenah_annoyed MEENAH: DAM-E MI PASTA
+      @aranea_facepalmtalk ARANEA: Cu&#225;nto lo siento. Esta vez, por dormirte, te vas con las manos vac&#237;as.
+      @meenah_wut MEENAH: cag&#252;en
       <!--  -->
       </args>
 </action>
 
 
-<action sprite='meenah' class='expoTalk4' command='talk' name='Tell me about Damara Megido.'>
+<action sprite='meenah' class='expoTalk4' command='talk' name='H&#225;blame de Damara Megido.'>
       <args>
-      @aranea_happytalk ARANEA: The Witch of Time was not always the party's 8iggest trou8lemaker. If you recall, you wore that tiara for a long time. ::::)
-      @meenah_annoyed MEENAH: yeah yeah
-      @aranea_happytalk ARANEA: Once she was as meek as can 8e. Hailing from the eastern provinces, she migrated across the seas and settled near the forest concealing Rufioh's guild. The two of them 8ecame quite fond of each other, and shared many interests!
-      @aranea_happytalk ARANEA: He secretly 8egan seeing someone else, 8elieving she knew nothing. 8ut she always suspected his infidelity, and over time grew quite distraught. 8ut her sadness never quite turned to rage and malevolence. Not until you... involved yourself. 
-      @meenah_annoyedtalk MEENAH: ugh do we really have to go through this
-      @aranea_happytalk ARANEA: If you'd like to earn your money, then yes!
-      @meenah_annoyed MEENAH: bleh fine
-      @aranea_happytalk ARANEA: After we 8egan our game, you quickly determined that winning was going to 8e an uphill 8attle with our team. Everyone was so preoccupied with their interpersonal issues, and no one seemed in any shape to 8e fighting major 8attles. Sound familiar?
-      @meenah_talk MEENAH: deja vus a bitch serk
-      @aranea_happytalk ARANEA: So you did your 8est to rile up the crew any way you could. Appealing to peoples insecurities, 8uried hostilities, 8rewing rivalries... needling anyone you could into confrontation with others. Your theory was that increasing everyone's state of aggression would make them 8etter equipped to play the game. And you were sort of right a8out that! 8ut the Alternians would prove it. Not our group, sadly.
-      @aranea_happytalk ARANEA: The poor girl who took the 8runt of your 8ullying tactics was Damara Megido. You talked up her matesprit's 8etrayal making her feel even more dreadful, while pushing him further into the arms of her rival, until she simply snapped. She attacked him, paralyzing him from the neck down. You finally got the aggressive confrontation you were looking for. Unfortunately, you unleashed something even you weren't prepared for, and you had to deal with her yourself. After a long 8loody duel, she killed you. And you would have stayed dead if not for me!
-      @aranea_happytalk ARANEA: You never listened to me. You just kept needling and fussing and meddling until eventually you paid the price, and I had to 8ail you out.
-      @meenah_wut2 MEENAH: (arg how bad do i even want this stupid money...)
-      @aranea_happytalk ARANEA: Damara has 8een unhinged ever since. 8y increasing her violent tendencies, instead of 8eing an asset in the game, she 8ecame a loose canon, ar8itrarily showing up at key moments throughout the timeline to sa8otage us. 
-      @aranea_happytalk ARANEA: So radical was her shift in personality, I've had a hard time 8elieving your incitement was solely to 8lame. It always seemed like other forces were in play, as if her acts, though apparently haphazard, were in keeping with some inscruta8le agenda. Of course it doesn't help that it's so hard to understand her even on a good day.
-      @aranea_happytalk ARANEA: Strangely, the only time she was eager to help us was when we were preparing to initiate the Scratch. And it's a good thing she was, since I'm not sure anyone else would have had the a8ility to do that kind of damage to the Cardinal Movement and release its energy. 
-      @aranea_happytalk ARANEA: It was almost a little eerie how happily she complied with our plan. What did Rufioh say she said? Something a8out how we would all finally get what we deserved...
-      @aranea_happytalk ARANEA: Which at the time, I thought sounded chilling. 8ut there's really two ways of looking at it. One is how the Scratch re8ooted our world into a state of pure chaos, culminating in the annihilation of our universe. 8ut on the other hand, we all got the chance to live out our wildest fantasies as adults on Alternia! 
-      @aranea_happytalk ARANEA: At least you and I sure did. And I wouldn't dou8t she feels the same way.
-      @meenah_idle MEENAH: so
-      @meenah_idle MEENAH: we done?
-      @aranea_happier ARANEA: That's it!
-      @meenah_talk MEENAH: toughest 5 bucks i ever made
+      @aranea_happytalk ARANEA: La 8ruja del Tiempo: no siempre fue la m&#225;s "follonera" del grupo. T&#250; misma ostenta8as ese r&#233;cord, &#191;recuerdas? ::::)
+      @meenah_annoyed MEENAH: que s&#237; que vale
+      @aranea_happytalk ARANEA: Antes era una joven muy, pero que muy t&#237;mida. Eclosion&#243; en territorio oriental, pero emigr&#243; a ultramar y se esta8leci&#243; cerca del 8osque donde se halla8a la cofrad&#237;a de Rufioh. Ten&#237;an mucho en com&#250;n, &#161;as&#237; que no tardaron nada en cogerse cari&#241;o!
+      @aranea_happytalk ARANEA: Pero &#233;l se empez&#243; a juntar con otra persona, creyendo que si manten&#237;a la aventura en secreto, no se dar&#237;a ni cuenta. Sin em8argo, ella ya se ol&#237;a que su pareja le esta8a poniendo otro par de cuernos y aca8&#243; entrando en depresi&#243;n. Dicho esto, la c&#243;lera y el rencor a&#250;n no se apoderaron de ella, pero todo cam8i&#243;... cuando entraste en escena. 
+      @meenah_annoyedtalk MEENAH: &#191;podemos saltarnos esta parte t&#237;a?
+      @aranea_happytalk ARANEA: Solo te pagar&#233; si escuchas toda la historia, &#161;hasta la &#250;ltima coma!
+      @meenah_annoyed MEENAH: venga sigue
+      @aranea_happytalk ARANEA: Nada m&#225;s iniciar la partida, te hiciste a la idea de que, con un equipo como el nuestro, las pasar&#237;amos canutas para alzarnos con la victoria. Ya ten&#237;amos 8astante con nuestros pro8lemas personales como para rendir algo en el campo de 8atalla. &#191;Te suena esta situaci&#243;n?
+      @meenah_talk MEENAH: que d&#233;jà vu m&#225;s chungo m'a entrao serki
+      @aranea_happytalk ARANEA: As&#237; que te empe&#241;aste en 8uscarnos las cosquillas. Nos juzga8as por nuestras inseguridades, reaviva8as rencillas, genera8as odio... lo que fuera con tal de im8uirnos de hostilidad. Porque, seg&#250;n t&#250;, necesit&#225;8amos adoptar una tesitura m&#225;s violenta para que la 8alanza se inclinase a nuestro favor. &#161;Y no te falta8a raz&#243;n! Desgraciadamente, a diferencia de los alternienses, nunca llegamos a poner tu idea en pr&#225;ctica.
+      @aranea_happytalk ARANEA: La que se llev&#243; la peor parte del acoso fue la po8re Damara Megido. Le demostraste que su matesprit le ha8&#237;a sido infiel y se sinti&#243; a&#250;n peor, y &#233;l aca8&#243; m&#225;s apegado a su &#233;mulo. Hasta que un d&#237;a, sin previo aviso, le agredi&#243; dej&#225;ndolo paralizado de cuello para a8ajo. Tras muchos esfuerzos por tu parte, finalmente se desat&#243; el primer 8rote de agresividad. Pero el arre8ato alcanz&#243; tal magnitud que te viste o8ligada a plantarle cara. Desgraciadamente, perdiste la vida en aquella cruenta 8atalla. &#161;Ya puedes agradecer que te resucitara!
+      @aranea_happytalk ARANEA: Si es que no me escuchas. Vas provocando, molestando, husmeando... Siempre igual. &#191;Y qu&#233; pasa? Que quien la hace, la paga, y siempre tengo que sacarte yo las casta&#241;as del fuego.
+      @meenah_wut2 MEENAH: (madreee que le den por culo al parn&#233; ya...)
+      @aranea_happytalk ARANEA: Damara qued&#243; trastornada desde aquel incidente, y el hecho de que adquiriera una conducta delictiva termin&#243; siendo contraproducente. Cada vez que se produc&#237;a un avance nota8le en la partida, ella ven&#237;a de la nada y sa8otea8a nuestros esfuerzos. 
+      @aranea_happytalk ARANEA: Su personalidad dio un giro de 180 grados, demasiado para que solo fuese o8ra tuya. Sinceramente, creo que se vio principalmente influenciada por otro ente, ya que si 8ien es cierto que comet&#237;a desafueros sin orden ni concierto, tam8i&#233;n parec&#237;a seguir cierto plan de inescruta8le condici&#243;n. Pero 8ueno, ya cuesta entender a Damara a&#250;n estando de 8uenas.
+      @aranea_happytalk ARANEA: Lo m&#225;s curioso es que, a&#250;n con todo, nos ayud&#243; una vez: cuando pusimos en marcha el Scratch. No s&#233; qu&#233; ha8r&#237;amos hecho sin ella, nadie pod&#237;a rayar el Movimiento Cardinal mejor que Damara. 
+      @aranea_happytalk ARANEA: Aunque fue raro que se mostrara tan participativa a 8ote pronto. &#191;Recuerdas lo que dijo? Seg&#250;n Rufioh, que reci8ir&#237;amos nuestro merecido o algo as&#237;...
+      @aranea_happytalk ARANEA: Qued&#233; horrorizada en su momento. Pero ahora estoy segura de que su comentario i8a con segundas. A simple vista, es cierto que el Scratch sumi&#243; a nuestro mundo en el caos m&#225;s a8soluto, propiciando adem&#225;s la destrucci&#243;n del universo. &#161;Pero en Alternia pudimos llevar la vida adulta con la que siempre ha8&#237;amos so&#241;ado! 
+      @aranea_happytalk ARANEA: A nuestros hom&#243;logos les fue de maravilla. Y seguro que a ella tam8i&#233;n le fueron 8ien las cosas.
+      @meenah_idle MEENAH: chachi
+      @meenah_idle MEENAH: &#191;eso es todo?
+      @aranea_happier ARANEA: &#161;Eso es todo!
+      @meenah_talk MEENAH: lo que hay que hacer por 5 machacantes
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk1' command='talk' name='SAY WHAAAAAAAAAAAAAAT?'>
+<action sprite='damara' class='expo2Talk1' command='talk' name='&#161;PERO BUENO!'>
       <args>
-      @! Damara!!! What the hell are you doing this deep into the game! Good grief, you are such a teen delinquent. I never should have let you out of Doc Scratch's pervert chamber in the alternate universe.
-      @damara_smilemeantalk DAMAR#000000 WHOOPS, nooooooooo no no no.##
-      @! I'm not gonna let you respond. You're just going say something totally filthy in Japanese again and make everyone uncomfortable.
-      @damara_lewd #000000 WHOA CUT THAT OUT!##
-      @! Sheesh. I guess this is what happens when you don't have a proper upbringing by a decent guardian. Or at least one who isn't a four foot tall asshole in suspenders, who's kind of like a creepy puppet uncle.
-      @! Look, let's all just chill out here. No more lewd Asian shenanigans, got it?? You may notice I bought a new franchise recently.
-      @! Cost me a fortune! I had to pawn a ring that used to belong to some dirtbag just to make the down payment.
-      @! But I should be able to recoup the losses, if I just tweak the business model a little. Hear me out. Instead of giving people money to listen to my shit? I think I might actually start CHARGING people for the service. Crazy, I know, right?
-      @! I've been thinking of dividing up my offers into a series of handsomely priced explanation bundles called EXPOSITION PAKS where I would...
+      @! &#161;&#161;&#161;Damara!!! &#161;&#191;Se puede saber qu&#233; rayos haces aqu&#237;, con lo poco que queda de juego?! Desde luego, eres incorregible. Me arrepiento de haber rescatado a tu otro yo de ese guarro de Scratch.
+      @damara_smilemeantalk DAMAR#000000 EEEPA, nooooooooo no no no.##
+      @! T&#250; calladita, que te tengo calada. Seguro que dices alguna cerdada en japon&#233;s, de esas que dan mucha grima.
+      @damara_lewd #000000 &#161;QUE NO, JODER!##
+      @! Anda que... Esto pasa por no haber tenido a un tutor digno que te metiese en vereda. No, ese pelele de metro veinte con tirantes y tendencias ped&#243;filas no cuenta.
+      @! Dejemos las marranadas orientales a un lado y tengamos la fiesta en paz, &#191;&#191;estamos?? No s&#233; si se nota pero acabo de adquirir la franquicia.
+      @! &#161;El dineral que me ha costado! He tenido que empe&#241;ar el anillo de cierto mamonazo para poder pagar el anticipo.
+      @! Pero se me ha ocurrido un peque&#241;o cambio para el negocio, y fijo que recupero la inversi&#243;n. Mira: &#191;y si en vez de pagar a la gente a cambio de soltarles el rollo, les COBRO? &#191;C&#243;mo te quedas, eh?
+      @! Tambi&#233;n estoy pensando en agrupar los cotilleos en lotes y ponerlos a la venta a un precio de risa. Los llamar&#233; INFORMATIMOS y...
       @damara_fu3 DAMARA:
-      @! Oh kaaay, guess you're not down with that? 
-      @! What would you pay for an explanation? Want to make an offer?
-      @! Yeah you're not gonna pay me a goddamn penny, are you.
+      @! Vaaale, veo que no ha colado. 
+      @! &#191;Cu&#225;l es tu m&#237;nimo, entonces? &#191;Regateamos?
+      @! No me vas a dar ni un duro, &#191;verdad?
       @damara_smoke DAMARA:
-      @! Ok fine. I'll give you these explanations for free. Let's call it a loss leader. You'll tell your friends, maybe they'll tell their friends, then the dead presidents start rolling in.
-      @! Yes? Yes???
+      @! De acuerdo, te atender&#233; gratis. Igual hasta funciona como reclamo. T&#250; se lo cuentas a tus amigos, ellos quiz&#225; a m&#225;s gente y ya llegar&#225;n esos presidentes muertos a mi cartera.
+      @! &#191;Vale? &#191;&#191;&#191;Vale???
       @damara_huh DAMARA:
-      @! Aw fuck it. Just tell me what you wanna know.
-      @! But just a heads up, these stories are gonna be pretty shitty! I ain't no light player.
+      @! A la mierda. &#191;De qui&#233;n quieres que te hable?
+      @! &#161;Pero te aviso que esto va a ser un tru&#241;o! La luz no es lo m&#237;o, &#191;sabes?
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk2' command='talk' name='Hey, before we start...'>
+<action sprite='damara' class='expo2Talk2' command='talk' name='Oye, antes de nada...'>
       <args>
-      @! Did you get here with Damara before you got here with Meenah? If you did I think I'm going to flip my shit. That is one cracked way of going through this game. Stop talking to me right now and go come back as Meenah.
+      @! No habr&#225;s venido aqu&#237; como Damara antes que como Meenah, &#191;no? Como sea as&#237;, me voy a cagar en todo lo cagable. &#191;A qui&#233;n se le ocurre saltarse as&#237; el orden del juego? Vuelve a ser Meenah y termina primero su aventura.
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk3' command='talk' name='Tell me about Damara Megido.'>
+<action sprite='damara' class='expo2Talk3' command='talk' name='H&#225;blame de Damara Megido.'>
       <args>
-      @! You want me to tell you about YOU??? Talk about self absorbed, but alright.
-      @! You say stuff in Japanese, and when people who actually speak Japanese read it they probably laugh because the Japanese is so shitty. Sorry to burst your bubble Damara but the things you say started out in English, went through the google translator, and then out again so that it vaguely makes sense when translated back to English. So you aren't really authentic troll Japanese, you're fake troll Japanese.
+      @! &#191;&#191;&#191;Que hable de TI??? Ya hay que ser egoc&#233;ntrica, pero vale.
+      @! Lo que dices est&#225; en japon&#233;s, pero los que entiendan el idioma se estar&#225;n meando de la risa, porque no es japon&#233;s ni es nada. Siento decepcionarte, Damara, pero tus frases las escrib&#237; en espa&#241;ol y luego las pas&#233; a japon&#233;s mediante el traductor de Google, dando como resultado un galimat&#237;as biling&#252;e. En otras palabras, que no eres propiamente japonesa, sino m&#225;s bien una farsante.
       @damara_fu2 DAMARA:
-      @! Whoa don't kill the messenger! Relax. Everyone thinks you're great. In fact, there's probably someone out there RIGHT NOW drawing some weird porn of you.
+      @! &#161;Eh, que yo solo soy un mandado! Tranquila, tus fans te adoran. Te GARANTIZO que hay artistas haciendo pornograf&#237;a tuya en estos momentos.
       @damara_huh DAMARA: ???
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk4' command='talk' name='Tell me about Mituna Captor.'>
+<action sprite='damara' class='expo2Talk4' command='talk' name='H&#225;blame de Mituna Captor.'>
       <args>
-      @! Mega Man Sollux has some problems. He falls down and stuff and talks on a 4chan background, because of 4chan. But in spite of that, he's brave and does his best and everyone loves him. Also no one can read a damn thing he says. His quirk is the least legible of all quirks, with Damara's coming in at a close second.
+      @! El hijo secreto de Sollux y Mega Man hace lo que puede. Se tropieza cada dos por tres y habla como si estuviera en 4chan, porque le pega. A&#250;n con todo, se enfrenta a sus problemas cara a cara y es colmado de amor. Y no se le entiende una mierda. De todos los jugadores, &#233;l es el que peor escribe. Y luego est&#225;s t&#250;.
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk5' command='talk' name='Tell me about Rufioh Nitram.'>
+<action sprite='damara' class='expo2Talk5' command='talk' name='H&#225;blame de Rufioh Nitram.'>
       <args>
-      @! With apologies to Dante Basco. Dante, I'm sorry about this. All of this. I am so, so sorry. You were leading the regular, modest life of a Hollywood superstar, then this shit happened. Everything is broken forever. I liked your work in The Last Airbender. You know what's funny is how there are probably some people who are reading this right now who have no idea what the fuck I'm talking about. But you know what? What the FUCK else is even new.
-      @! Anyway. Bangarang, dude.
+      @! Quisiera disculparme con Dante Basco. Lo siento, Dante. De veras. No sabes cu&#225;nto lo siento. Eres una estrella de Hollywood que quer&#237;a llevar una vida tranquila, y ahora esto. Ya nada ser&#225; como antes. Lo hiciste genial en Avatar. Tiene gracia, pero seguro que habr&#225; gente que se lea esto y no tenga ni idea de lo que estoy hablando. Pero no pasa nada: ya est&#225;n ACOSTUMBRADOS.
+      @! En fin. Bangarang, t&#237;o.
       @!:#rufiozuko.tumblr.com Bangarang.
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk6' command='talk' name='Tell me about Kankri Vantas.'>
+<action sprite='damara' class='expo2Talk6' command='talk' name='H&#225;blame de Kankri Vantas.'>
       <args>
-      @! Did you know: it is a Homestuck fact that 99 percent of all readers didn't read or care about anything Kankri said. So in other words, he is exactly like all terrible social justice bloggers. Some social justice bloggers get angry at the joke that he is, but those are the terrible ones, and being terrible is why they get angry. They want to be terrible in peace without being mocked. That is what it is like to be a justified target of ridicule. You feel sad and angry all the time and you don't know why. 
-      @! Kankri wears a cute red sweater and is otherwise fairly adorable. Porrim acts like his mom which is also cute as hell.
+      @! &#191;Sab&#237;as que el 99% de los lectores de Homestuck se ha saltado todo lo que ha dicho Kankri? Normal, ya que es un mal defensor de la justicia social. Hay quienes se ofendieron por la parodia, pero los que realmente se cabrearon fueron los malos defensores. No dejan pasar ni una sola pulla a su p&#233;sima conducta, y por eso son el blanco de todas las burlas: porque se quejan constantemente por todo, y no saben por qu&#233;.
+      @! El jersey rojo de Kankri es toda una monada. Y Porrim es su figura materna, que tampoco deja de ser adorable.
       <!--  -->
       </args>
 </action>
   
-<action sprite='damara' class='expo2Talk7' command='talk' name='Tell me about Meulin Leijon.'>
+<action sprite='damara' class='expo2Talk7' command='talk' name='H&#225;blame de Meulin Leijon.'>
       <args>
-      @! Meulin is the deaf Nepeta in this kickass smorgasbord of disabled characters. She speaks in ASL to say memes which are called mimes because it's one letter away and therefore a play on words. But you can't actually use ASL to say animated tumblr gifs, you can only say words. She otherwise reads lips, which is funny because her bff sewed his damn mouth shut so they just sign memes to each other all day while stoned. It is implied that they smoke catnip together, as if it were marijuana, which is an especially amusing notion to people who like drugs. Moving on??
+      @! En esta jaur&#237;a de adolescentes con discapacidades varias, Meulin es como Nepeta, solo que sorda. Se vale de la lengua de signos para pasarles memes a sus amigos. Bueno, mimos, que es lo mismo pero con las vocales cambiadas. Y no se pueden pasar gifs de Tumblr con las manos; palabras como mucho. Tambi&#233;n sabe leer los labios, pero como su mejor amigo tiene la boca cosida, solo se comunican con memes y drogas. Parece que les gusta fumar algo llamado "albagata", que ser&#225; como la marihuana. A los amantes de las drogas todo esto les hace gracia. Bueno, &#191;&#191;seguimos??
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk8' command='talk' name='Tell me about Latula Pyrope.'>
+<action sprite='damara' class='expo2Talk8' command='talk' name='H&#225;blame de Latula Pyrope.'>
       <args>
-      @! Latula is the gamegrl to Mituna's gamebro. Gamebros and gamegrls aren't really "types of people" so much as they are hollow cliches which are patronizing to multiple groups of people on multiple levels. So in other words, perfect attributes for some 1.5 dimensional NPC-caliber characters stocking a fun jrpg style walkaround game. Wait what was I talking about? Oh yeah Latula.
-      @! Latula's so rad but she can't smell. I think I agree with Karkat, that's not a disability. That's just like having a cold all the time, but without any actual symptoms or problems. Who cares. Latula likes to high five people all the time, but doesn't like to be left hanging. That's a pun, because Redglare liked to hang people with nooses. Mindfang ultimately left Redglare hanging that way too. I'm explaining jokes here. What? I told you these stories would suck. You get what you pay for.
+      @! Latula es una gamer con todas las de la ley, al igual que Sutuna. Sinceramente, ser gamer no "define" a una persona; la reduce a un burdo estereotipo que degrada a muchas otras en varios &#225;mbitos. Vamos, que para personajes de relleno de un juego pasillero les viene que ni pintado. &#191;Qu&#233; estaba yo diciendo? Ah s&#237;, Latula.
+      @! Latula es una chica muy radical pero no tiene sentido del olfato. Le doy la raz&#243;n a Karkat: a eso no se le puede llamar discapacidad. Es como pillar un resfriado y que no se te vaya, pero que no te afecte en nada a la salud. En fin. A Latula le encanta chocar esos cinco, pero odia que la dejen colgada. Es gracioso, porque Redglare muri&#243; colgada en la horca a manos de Mindfang. S&#237;, acabo de explicar el chiste. &#191;Qu&#233;? Ya te he dicho que esto ser&#237;a un tru&#241;o. El que avisa no es traidor.
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk9' command='talk' name='Tell me about Porrim Maryam.'>
+<action sprite='damara' class='expo2Talk9' command='talk' name='H&#225;blame de Porrim Maryam.'>
       <args>
-      @! Porrim is better at social justice than Kankri because she isn't a boring asshole. Some social justice people should try looking into that. Porrim wants there to be equality for ladies. Not everybody cares about that though, which makes it hard for people like Porrim. That's the way it is in the real world. CHALLENGES. But in any case, she is a vampire with cool tattoos. End of story.
+      @! Porrim aboga por la justicia social mejor que Kankri, porque ella no se pasa el d&#237;a dando la brasa. A ver si la gente empieza a seguir su ejemplo. Porrim pugna por la igualdad femenina, pero no es un tema que est&#233; en boca de todos. La gente como Porrim debe esforzarse el doble para hacerse o&#237;r, porque as&#237; es el mundo real: TIENE TRABAS. Ah, y es una vampiresa con tatuajes muy chulos. Y ya est&#225;.
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk10' command='talk' name='Tell me about Aranea Serket.'>
+<action sprite='damara' class='expo2Talk10' command='talk' name='H&#225;blame de Aranea Serket.'>
       <args>
-      @! Aranea is a blabbermouth, just like Mindfang. She says long things both as a teen and as a sexy pirate adult that make people ask what am I even reading? It's about time I took over this exposition stand. The way I describe shit is a million times better. She sure charged me enough for it. God I took a bath on this thing. Why was it so expensive??? IT'S MADE OF FUCKING CARDBOARD.
+      @! Aranea, al igual que Mindfang, no se calla ni debajo del agua. Ya sea una moza o una seductora pirata, sus parrafadas pondr&#225;n a prueba la paciencia y cordura del lector. Ya iba siendo hora de que tomase las riendas de este puestucho, que yo le doy mil vueltas en esto de narrar. Pero lo que me ha costado. Por Dios, que casi me deja en la ruina. &#191;&#191;&#191;C&#243;mo puede valer esto tanto??? SI ES CART&#211;N, JODER.
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk11' command='talk' name='Tell me about Horrus Zahhak.'>
+<action sprite='damara' class='expo2Talk11' command='talk' name='H&#225;blame de Horuss Zahhak.'>
       <args>
-      @! This dude is just Equius on horse steroids. The end.
+      @! Equius pero dopado vivo. Punto.
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk12' command='talk' name='Tell me about Kurloz Makara.'>
+<action sprite='damara' class='expo2Talk12' command='talk' name='H&#225;blame de Kurloz Makara.'>
       <args>
-      @! He chewed off his tongue and sewed his mouth shut because he's a weirdo in cahoots with Gamzee and English. Who even knows what they're up to. It's probably just a lot of stupid bullshit. Meaningless, clownish nonsense. Want to know why they're assembling the wicked ensemble? They probably just think it's funny. Kurloz speaks in bones when he does his clown hypnosis shit but otherwise he mimes everything because get this: he's pretty much literally a mime. Also a juggalo. Because that's exactly what Homestuck needed. Another fucking juggalo. Homestuck needed another juggalo like it needed... 
-      @! Well, another twelve trolls I guess. 
+      @! Se mordi&#243; la lengua y luego se cosi&#243; la boca porque es un bicho raro, del mismo palo que Gamzee y English. Nadie sabe lo que est&#225;n tramando, pero imagino que ser&#225;n chorradas. Chorradas t&#237;picas de payaso. &#191;Que a qu&#233; viene lo del atuendo perverso? Les har&#225; gracia, no s&#233;. Al entrar en trance, Kurloz habla con un acento algo esquel&#233;tico, pero se vale de mimos en su vida cotidiana. &#191;A que no sabes por qu&#233;? Porque es un mimo. Y tambi&#233;n un juggalo. Lo que le faltaba a Homestuck: otro juggalo. &#191;Sabes qu&#233; otra cosa le hac&#237;a falta a Homestuck?... 
+      @! Pues otros doce trolls, por lo que veo.
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk13' command='talk' name='Tell me about Cronus Ampora.'>
+<action sprite='damara' class='expo2Talk13' command='talk' name='H&#225;blame de Cronus Ampora.'>
       <args>
-      @! Cronus is the worst character in Homestuck by a nautical mile. Any questions?
+      @! Cronus es el peor personaje de todo Homestuck, aqu&#237; y en los siete mares. &#191;Ha quedado claro?
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk14' command='talk' name='Tell me about Meenah Peixes.'>
+<action sprite='damara' class='expo2Talk14' command='talk' name='H&#225;blame de Meenah Peixes.'>
       <args>
-      @! Meenah is kind of throwing a bone to the pisces people who got stuck with Feferi. Feferi didn't really do anything and then she died. Meenah is a cool sassy punk who has more important stuff to do than Feferi ever did. You just spent like the last three hours playing through these games from her POV so obviously you know that. You're probably sick of fish puns by now. After a while you start running out of fish puns. You can overdo it with fish puns, much like you can overfish the ocean. You start literally running out of fucking fish. Be careful out there.
-      @! Meenah discovered that raising and army is hard. But you know what's really hard? What's really hard is making games. Games disguise the effort that go into them probably like few other crafts. In order to make a game that is even slightly better than mediocre, someone probably had to die in the process. Like building pyramids. Nobody actually died while making these games though, hence they were just ok. But still if you add up all the work done collectively on these last three games, it probably was comparable to the manhours that went into [S] Cascade. You know what that is? That's a silly ass fact.
+      @! Meenah es un favor que les hago a todos los piscis que tuvieron que conformarse con Feferi, porque lo &#250;nico que hizo en la historia fue morirse. En cambio, Meenah es una chula con mucha jeta y est&#225; metida en m&#225;s follones que su predecesora. T&#250; sabr&#225;s, te has pasado estas &#250;ltimas tres horas jugando como ella. Imagino que ya te habr&#225;s cansado de tanto chascarrillo pesquero. Es un humor limitado, pero se pueden sacar tantos chistes como peces hay en el oc&#233;ano. Pero tampoco hay que pasarse, o se extinguir&#225; toda la vida marina.
+      @! Meenah ha aprendido que no es tan f&#225;cil levantar un ej&#233;rcito. Pero hay otra cosa que no es tan f&#225;cil. Me refiero al dise&#241;o de videojuegos. Parece sencillo, pero no hay medio m&#225;s sacrificado que el videojuego. No se puede crear un videojuego medianamente bueno sin unas cuantas muertes de por medio. Es como las pir&#225;mides. Pero como nadie ha muerto durante el desarrollo de esto, pues ha salido mediocre. Aunque si junt&#225;ramos el esfuerzo invertido en estos tres minijuegos en su conjunto, nos saldr&#237;a una cifra similar al tiempo que llev&#243; hacer [S] Cascada. &#191;Sabes qu&#233;? Esto no tiene relevancia alguna.
       <!--  -->
       </args>
 </action>

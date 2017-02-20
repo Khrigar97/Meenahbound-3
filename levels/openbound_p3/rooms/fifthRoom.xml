@@ -109,40 +109,40 @@
     </sprite>
 
     <sprite class='chest7' name='fifthRoomChest15' x='440' y='540'>
-      <action command='openChest' name='Open.'>
+      <action command='openChest' name='Abrir.'>
         <args>fifthRoomChest15,item15,
-        @! You got a BROKEN 8 BALL!
-      @! You remember seeing a bunch of these earlier. What was the context again? You just had so many long weird conversations it's all kind of a jumble now.
-      @! You feel unlucky just looking at this thing. You toss it in the bushes.
+        @! &#161;Has conseguido una BOLA NEGRA ROTA!
+      @! Ya hab&#237;as visto bolas de estas anteriormente. &#191;Cu&#225;ndo fue? Despu&#233;s de tantas conversaciones de besugos, el cacao que llevas encima es considerable.
+      @! Seguro que es un p&#225;jaro de mal ag&#252;ero. La tiras a ese matorral de ah&#237;.
         </args>
       </action>
     </sprite>
 
     <sprite class='chest7' name='fifthRoomChest16' x='672' y='756'>
-      <action command='openChest' name='Open.'>
+      <action command='openChest' name='Abrir.'>
         <args>fifthRoomChest16,item16,
-         @!:#pshoooes You got a pair of ROCKET BOOTS!
-      @! What would a ghost need with rocket boots, anyway? Can't all ghosts fly?
-      @! Or maybe that's just dead god tiers, who can generally fly anyway. Or dead dream selves? Actually you don't know what the flying rules are and you don't really care.
+         @!:#pshoooes &#161;Has conseguido unas BOTAS PROPULSORAS!
+      @! &#191;Y esto de qu&#233; le sirve a un fantasma? Ya pueden volar sin ellas.
+      @! &#191;O solo los god tiers? &#191;Y los yo del sue&#241;o, qu&#233;? Mira, quien quiera volar que vuele, pero que no d&#233; por culo.
         </args>
       </action>
     </sprite>
 
     <sprite class='chest7' name='fifthRoomChest17' x='608' y='756'>
-      <action command='openChest' name='Open.'>
+      <action command='openChest' name='Abrir.'>
         <args>fifthRoomChest17,item17,
-          @! You got a HEAP OF PRICELESS TREASURE!
-      @! Huh. Actual treasure, inside a treasure chest.
-      @! Now you've seen everything.
+          @! &#161;Has conseguido un TESORO DE UN VALOR INCALCULABLE!
+      @! Anda. Dentro del cofre del tesoro hab&#237;a un tesoro.
+      @! &#191;Qui&#233;n lo iba a decir?
         </args>
       </action>
     </sprite>
 
     <sprite class='chest7' name='fifthRoomChest18' x='828' y='1532'>
-      <action command='openChest' name='Open.'>
+      <action command='openChest' name='Abrir.'>
         <args>fifthRoomChest18,item18,
-           @! You got the FLUORITE OCTET!
-      @!:#:::;) Feeling lucky, punk????????
+           @! &#161;Has conseguido el OCTETO DE FLUORITAS!
+      @!:#:::;) &#191;&#191;&#191;&#191;&#191;&#191;&#191;&#191;Es hoy tu d&#237;a de suerte????????
         </args>
       </action>
     </sprite>

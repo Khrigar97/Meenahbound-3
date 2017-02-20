@@ -83,132 +83,132 @@
       <!--  -->
       </args>
 </action>   
-<action class='daveTalk2' sprite='rose' command='talk' name='Talk to Dave.'>
+<action class='daveTalk2' sprite='rose' command='talk' name='Hablar con Dave.'>
       <args>
-      @dave_huhtalk DAVE: whats up with the fish punk troll following kanaya around
-      @rose_talk ROSE: Seems she's passing through. Kanaya doesn't want her to cause trouble.
-      @dave_huh DAVE: cause trouble
-      @dave_madtalk DAVE: what the fuck could she even do here
-      @dave_madtalk DAVE: like kick over an old pile of garbage and cause the property value to fall even lower than jack shit
-      @dave_smug DAVE: i say let her go nuts
-      @rose_talk ROSE: Feel free to take it up with Kanaya.
-      @rose_annoyedtalk ROSE: But if you authorize her to flip a bitch, just make sure she's nowhere near my chemistry table. 
-      @dave_idle DAVE: yeah
-      @dave_talk DAVE: cant be droppin your vials and shit all over the floor
-      @dave_talk DAVE: the only one whos got clearance to drop science is me
-      @rose_annoyed ROSE: Dork.
-      @dave_mad DAVE: dont even hate
-      @dave_madtalk DAVE: been shoring up my muthafuckin CRAFT over here
-      @rose_annoyedtalk ROSE: I know. I've been in the same room, right over there, listening to you mumble lyrics to yourself for the last couple hours.
-      @dave_huhtalk DAVE: rose you know what sucks
-      @rose_idle ROSE: Yes.
-      @rose_talk ROSE: To which sucky thing are you referring?
-      @dave_talk DAVE: it kinda just occurred to me
-      @dave_talk DAVE: while i was spitting ill verse to no end
-      @dave_talk DAVE: i got this weird feeling that i might be getting like
-      @dave_huh DAVE: a little dated?
-      @rose_coy ROSE: Is this about Terezi?
-      @dave_huh DAVE: what
-      @dave_mad DAVE: no no
-      @dave_madtalk DAVE: dont be disingenuous word girl you know what im saying
-      @dave_huhtalk DAVE: i mean sorta passe
-      @dave_talk DAVE: like a lumbering pop reference dinosaur
-      @dave_talk DAVE: remember we are both kind of stuck in 2009
-      @dave_talk DAVE: so im like popculturally frozen in that period
-      @dave_talk DAVE: all my references feel like they might be getting a little stale
-      @dave_talk DAVE: even though the earth ended and all and there was no culture after that point anyway
-      @dave_talk DAVE: but still
-      @dave_talk DAVE: i can feel it
-      @dave_talk DAVE: like in my bones
-      @dave_talk DAVE: i just know on some hypothetical earth that kept going my shit is starting to get so lame
-      @dave_talk DAVE: and i know it doesnt matter because its just us here so who cares
-      @dave_talk DAVE: but i care
-      @dave_madtalk DAVE: its a matter of integrity i am a fucking artist
-      @dave_madtalk DAVE: like i think if i make one more rap about like some fucking dane cook movie from 2008 to piss karkat off or some tired bullshit like that im going to 
-      @dave_huhtalk DAVE: i dont know
-      @dave_huhtalk DAVE: ill just start feeling like a fraud
-      @dave_huhtalk DAVE: my game might be drying up rose
-      @dave_madtalk DAVE: but its not my fault like im totally hostage to this freezedried backlog of cultural garbage that can never move forward again
-      @dave_madtalk DAVE: so i have to pick through it like im looting a fucking tomb while still all tryin to act RAP SASSY
-      @dave_smug DAVE: like YEAH take THAT motherfuckers
-      @dave_concern DAVE: OF THE PAST
-      @dave_huhtalk DAVE: all in your mass graves somewhere in a dead frogiverse
-      @dave_madtalk DAVE: i be representing some god damn STANDARDS about your media do you feel me
-      @dave_huhtalk DAVE: im depressing myself here
-      @dave_talk DAVE: all im saying is it would be cool to have some fresh shit to work with
-      @dave_talk DAVE: like just to know
-      @dave_talk DAVE: to know what the world would be like in the year it would be for us now
-      @dave_talk DAVE: which would be 2011 i guess
-      @dave_huhtalk DAVE: wow 2011 really
-      @dave_huh DAVE: damn
-      @dave_talk DAVE: i just want to know what would have happened
-      @dave_talk DAVE: theres so much shit we were primed for
-      @dave_talk DAVE: it was gonna be exciting
-      @dave_talk DAVE: like barack obama just turned president remember that
-      @dave_talk DAVE: we never got to see if he fixed the economy
-      @dave_talk DAVE: remember how you were dying to see if he would fix the economy you were asking me about it every damn day
-      @dave_talk DAVE: just joking nobody gave a shit about that
-      @dave_huh DAVE: but like
-      @dave_huhtalk DAVE: i never got to check out the next batch of stiller jams and see how bad i could mock them
-      @dave_huhtalk DAVE: we never got to find out how the midnight crew adventure ended
-      @dave_mad DAVE: if ever
+      @dave_huhtalk DAVE: que rayos hace la pescado esa tan pegada a kanaya
+      @rose_talk ROSE: Creo que est&#225; de paso. Kanaya la vigila para que no haga de las suyas.
+      @dave_huh DAVE: que la vigila
+      @dave_madtalk DAVE: y que va a hacer
+      @dave_madtalk DAVE: pegarle una patada a una papelera y dejarlo todo comido de mierda vaya por su culpa ahora ya nadie querra comprarnos esta pocilga en medio de la nada
+      @dave_smug DAVE: dejala que este a su aire mujer
+      @rose_talk ROSE: Es a Kanaya a quien tienes que convencer.
+      @rose_annoyedtalk ROSE: Si al final le dais permiso para portarse como una salvaje, decidle que no se acerque a mi taller de alquimia. 
+      @dave_idle DAVE: claro
+      @dave_talk DAVE: seria una perrada que te destrozara las probetas
+      @dave_talk DAVE: que aqui el unico que sabe de ciencia pura y dura es el menda
+      @rose_annoyed ROSE: Imb&#233;cil.
+      @dave_mad DAVE: ande yo caliente riase la gente
+      @dave_madtalk DAVE: que yo tambien me estoy currando el ARTE eh
+      @rose_annoyedtalk ROSE: Lo s&#233;. Llevamos en esta sala un buen rato. Como para no fijarse en tus delirantes c&#225;nticos.
+      @dave_huhtalk DAVE: sabes que rose
+      @rose_idle ROSE: No.
+      @rose_talk ROSE: Il&#250;strame, hazme el favor.
+      @dave_talk DAVE: mientras me devanaba los sesos en pos del rap del verano
+      @dave_talk DAVE: me cosque de algo muy chungo
+      @dave_talk DAVE: llamame raro pero creo que estoy empezando a sonar
+      @dave_huh DAVE: un pelin rancio
+      @rose_coy ROSE: &#191;Te lo ha pegado Karkat?
+      @dave_huh DAVE: eh
+      @dave_mad DAVE: ja ja
+      @dave_madtalk DAVE: muy graciosa tia pero ya me has entendido
+      @dave_huhtalk DAVE: que estoy fuera de onda vamos
+      @dave_talk DAVE: soy un dinosaurio inamovible en cuanto a cultura de masas
+      @dave_talk DAVE: todo acabo en el 2009
+      @dave_talk DAVE: solo tenemos hasta ese a&#241;o como referente
+      @dave_talk DAVE: supongo que es normal que me repita mas el ajo
+      @dave_talk DAVE: mas aun teniendo en cuenta que si ya no existe la tierra de que cultura voy a beber yo
+      @dave_talk DAVE: pero aun asi
+      @dave_talk DAVE: tengo no se
+      @dave_talk DAVE: una corazonada
+      @dave_talk DAVE: supongamos que existe una tierra exenta del apocalipsis pues en ese plano existencial se me consideraria una vieja gloria
+      @dave_talk DAVE: y diras dave ahora solo estamos cuatro gatos mal contados a quien le importa
+      @dave_talk DAVE: pues a mi si que me importa
+      @dave_madtalk DAVE: soy artista joder tengo algo que se llama integridad
+      @dave_madtalk DAVE: porque como haga otro rap de que se yo una peli de dane cook del 2008 con tal de chinchar a karkat o pollas en vinagre te juro que 
+      @dave_huhtalk DAVE: que
+      @dave_huhtalk DAVE: me empezare a sentir un fraude
+      @dave_huhtalk DAVE: me estoy quedando sin ideas rose
+      @dave_madtalk DAVE: pero la culpa la tiene el bagaje cultural de una civilizacion muerta que se me va haciendo pelota no yo
+      @dave_madtalk DAVE: mi material de trabajo se asemeja a las antiguallas de un templo y encima tengo que rapear estilo CHULETA
+      @dave_smug DAVE: TOMA del FRASCO carrasco
+      @dave_concern DAVE: EH SERES DE ANTA&#209;O
+      @dave_huhtalk DAVE: vuestras fosas comunes no son mas que acne en una rana muerta
+      @dave_madtalk DAVE: a diferencia de los otrora famosos yo tengo CRITERIO que como os quedais
+      @dave_huhtalk DAVE: esto es deprimente
+      @dave_talk DAVE: lo que vengo a decir es que me encantaria contar con algo fresco
+      @dave_talk DAVE: no se si me entiendes
+      @dave_talk DAVE: hacerme una idea de como habria sido el mundo de ahora si la humanidad hubiese prosperado
+      @dave_talk DAVE: ahora estariamos en 2011 creo
+      @dave_huhtalk DAVE: 2011 fijate
+      @dave_huh DAVE: ya son palabras mayores
+      @dave_talk DAVE: quiero saber que nos hemos perdido
+      @dave_talk DAVE: el futuro nos deparaba muchas cosas
+      @dave_talk DAVE: y la cosa prometia
+      @dave_talk DAVE: te acuerdas de que barack obama salio presidente y tal
+      @dave_talk DAVE: jamas sabremos si salvo la economia 
+      @dave_talk DAVE: te morias de ganas de ver rescatada a tu amiga la economia me hablabas de ello dia si y dia tambien
+      @dave_talk DAVE: que no que es co&#241;a nos la sudaba muy fuerte
+      @dave_huh DAVE: pero eso
+      @dave_huhtalk DAVE: jamas vere los proximos videoclips de stiller y jamas llegare a parodiarlos
+      @dave_huhtalk DAVE: y tampoco sabremos como acaba la aventura de la banda nocturna
+      @dave_mad DAVE: que igual no acaba
       @dave_huh DAVE: rose
-      @dave_concern DAVE: ROSE??
-      @dave_concern DAVE: what the fuck man
-      @dave_concern DAVE: whyd you go back to your bottles and shit i was right in the thick of hella elocution
-      @dave_concern DAVE: dont give me that
-      @dave_concern DAVE: yes
-      @dave_concern DAVE: uh yeah
-      @dave_concern DAVE: yes i do ACTUALLY want you to come back over here
-      @dave_madtalk DAVE: im waiting
-      @rose_annoyed ROSE: Fine. Here I am.
-      @dave_madtalk DAVE: wow was that so hard
-      @dave_madtalk DAVE: this is what civilized people do rose they fucking talk to each other like actually in each others fucking vicinities
-      @rose_annoyedtalk ROSE: You just have a tendency to go on for a while. I assumed we progressed to the traditional mumbling monologue stage of Striderian discourse.
-      @dave_madtalk DAVE: no thats not even a thing
-      @dave_madtalk DAVE: i was actually like
-      @dave_huhtalk DAVE: trying to get your take
-      @rose_idle ROSE: Take on what.
-      @dave_huhtalk DAVE: i dont even know
-      @dave_huhtalk DAVE: i bet john would have stuff to say
-      @dave_huhtalk DAVE: hes probably going through the same frozen fucking caveman from 2009 syndrome as me
-      @dave_smug DAVE: actually what am i saying the dude is a caveman from 1997 
-      @dave_smug DAVE: hahaha like he could give a shit as long as hes got his cage dvds
-      @rose_happytalk ROSE: Oh! I saw him the other night.
-      @dave_concern DAVE: what
-      @rose_happytalk ROSE: In a dream. It was very brief, only a few minutes. I waved to him and then woke up.
-      @dave_huhtalk DAVE: whoa what was he doing
-      @rose_happytalk ROSE: He was fighting Jack. Actually, he was doing quite well!
-      @dave_huh DAVE: oh man
-      @dave_smug DAVE: you have to tell me all about this
-      @rose_talk ROSE: I will. Later, though. I'd like to get back to work.
-      @dave_idle DAVE: ok when
-      @dave_idle DAVE: tonight?
-      @rose_talk ROSE: I have plans tonight. How about tomorrow.
-      @dave_huh DAVE: plans 
-      @dave_huh DAVE: what plans
-      @rose_idle ROSE: Just some plans.
-      @dave_huh DAVE: can i come
-      @rose_annoyed ROSE: No!
-      @dave_mad DAVE: fuck fine
-      @dave_mad DAVE: tomorrow then
-      @dave_smug DAVE: maybe ill just dream up my own john tonight and well have an awesome time without you what do you think about that
+      @dave_concern DAVE: &#191;&#191;ROSE??
+      @dave_concern DAVE: hay que joderse
+      @dave_concern DAVE: me esfuerzo en abrirme contigo y tu vas y te piras a tu laboratorio secreto
+      @dave_concern DAVE: no me mires asi
+      @dave_concern DAVE: aja
+      @dave_concern DAVE: eh claro
+      @dave_concern DAVE: hombre estaria BIEN que volvieras para seguir la charla
+      @dave_madtalk DAVE: te estoy esperando
+      @rose_annoyed ROSE: Hala. Heme aqu&#237;.
+      @dave_madtalk DAVE: te ha costado eh
+      @dave_madtalk DAVE: vivimos en puta sociedad rose la gente no suele irse a la puta mitad de la conversacion
+      @rose_annoyedtalk ROSE: Y dale perico al torno. Estoy tan acostumbrada al discurso strideriano que pensaba que este era otro de tus cacareados soliloquios.
+      @dave_madtalk DAVE: pero que dices
+      @dave_madtalk DAVE: yo solo queria
+      @dave_huhtalk DAVE: saber tu opinion
+      @rose_idle ROSE: &#191;Mi opini&#243;n sobre qu&#233;?
+      @dave_huhtalk DAVE: yo que se
+      @dave_huhtalk DAVE: fijo que john diria algo
+      @dave_huhtalk DAVE: seguro que el tambien se siente como un puto troglodita congelado en 2009
+      @dave_smug DAVE: nah que digo su sindrome se remonta a 1997 
+      @dave_smug DAVE: mientras tenga sus dvd de cage a el plim ja ja ja
+      @rose_happytalk ROSE: &#161;Ah, s&#237;! Me encontr&#233; con &#233;l la otra noche.
+      @dave_concern DAVE: como
+      @rose_happytalk ROSE: Fue en un sue&#241;o. Apenas dur&#243; escasos momentos. Solo tuve tiempo de saludarle.
+      @dave_huhtalk DAVE: hala y que hacia
+      @rose_happytalk ROSE: Enfrentarse a Jack. &#161;Le estaba propinando una buena paliza!
+      @dave_huh DAVE: hostia
+      @dave_smug DAVE: cuentamelo todo
+      @rose_talk ROSE: Claro. Pero tengo mucho que hacer. Luego si eso.
+      @dave_idle DAVE: esta bien
+      @dave_idle DAVE: &#191;quedamos esta noche?
+      @rose_talk ROSE: Ya tengo planes. Mejor ma&#241;ana.
+      @dave_huh DAVE: planes 
+      @dave_huh DAVE: que planes
+      @rose_idle ROSE: Pues eso, planes.
+      @dave_huh DAVE: podria acompa&#241;arte
+      @rose_annoyed ROSE: &#161;No!
+      @dave_mad DAVE: vale vale
+      @dave_mad DAVE: quedamos ma&#241;ana
+      @dave_smug DAVE: ahora voy y sue&#241;o con john y nos lo pasamos en grande el y yo solos y tu te quedas con las ganas a que jode
       @rose_laugh ROSE: ...
-      @dave_mad DAVE: fu
+      @dave_mad DAVE: cabrona
       <!--  -->
       </args>
 </action>   
-<action class='daveTalk3' sprite='damara' command='talk' name='Talk to Dave.'>
+<action class='daveTalk3' sprite='damara' command='talk' name='Hablar con Dave.'>
       <args>
-      @dave_idle DAVE: hey
-      @dave_talk DAVE: who the fuck are you
-      @dave_talk DAVE: dont think you belong in here 
-      @damara_smile DAMARA: I VERY HAPPY. 
-      @damara_smile DAMARA: MEET HUMAN.
-      @damara_smile DAMARA: SAY MUCH DELIGHT.
-      @dave_talk DAVE: meh you seem harmless enough
-      @dave_talk DAVE: what do i even care
-      @dave_talk DAVE: go fuck some shit up japanese schoolgirl troll
+      @dave_idle DAVE: ey
+      @dave_talk DAVE: quien co&#241;o eres tu
+      @dave_talk DAVE: creo que aqui no pintas nada eh
+      @damara_smile DAMARA: YO ESTAR MUCHO CONTENTA. 
+      @damara_smile DAMARA: CONOCER HUMANO.
+      @damara_smile DAMARA: MOTIVO INMENSA ALEGRIA.
+      @dave_talk DAVE: tienes cara de no romper un plato pero
+      @dave_talk DAVE: bah me la suda
+      @dave_talk DAVE: ponte las botas troll del sol naciente
       <!--  -->
       </args>
 </action>
